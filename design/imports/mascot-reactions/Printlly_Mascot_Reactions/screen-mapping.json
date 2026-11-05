@@ -1,0 +1,438 @@
+{
+  "fileKey": "GLk1d6IiNCnsEFIEIVogwm",
+  "componentSet": "347:547",
+  "applied": {
+    "light": [
+      {
+        "screen": "78:8153",
+        "key": "M03",
+        "reaction": "access_expired",
+        "art": "349:5633"
+      },
+      {
+        "screen": "78:8190",
+        "key": "M03e",
+        "reaction": "access_expired",
+        "art": "349:5638"
+      },
+      {
+        "screen": "78:8306",
+        "key": "M05",
+        "reaction": "access_expired",
+        "art": "349:5642"
+      },
+      {
+        "screen": "78:8495",
+        "key": "M09",
+        "reaction": "upload_failed",
+        "art": "349:5645"
+      },
+      {
+        "screen": "78:8974",
+        "key": "M14",
+        "reaction": "not_found",
+        "art": "349:5650"
+      },
+      {
+        "screen": "78:9354",
+        "key": "M21",
+        "reaction": "payment_failed",
+        "art": "349:5655"
+      },
+      {
+        "screen": "78:9387",
+        "key": "M21p",
+        "reaction": "payment_uncertain",
+        "art": "349:5660"
+      },
+      {
+        "screen": "78:9417",
+        "key": "M21c",
+        "reaction": "cancelled",
+        "art": "349:5665"
+      },
+      {
+        "screen": "78:9448",
+        "key": "M21o",
+        "reaction": "offline",
+        "art": "349:5670"
+      },
+      {
+        "screen": "78:9917",
+        "key": "M30",
+        "reaction": "offline",
+        "art": "349:5675"
+      },
+      {
+        "screen": "78:9950",
+        "key": "M31",
+        "reaction": "cancelled",
+        "art": "349:5680"
+      },
+      {
+        "screen": "78:9990",
+        "key": "M31e",
+        "reaction": "cancelled",
+        "art": "349:5685"
+      }
+    ],
+    "dark": [
+      {
+        "screen": "102:11126",
+        "key": "M03",
+        "reaction": "access_expired",
+        "art": "350:28715"
+      },
+      {
+        "screen": "102:11167",
+        "key": "M03e",
+        "reaction": "access_expired",
+        "art": "350:28720"
+      },
+      {
+        "screen": "102:11293",
+        "key": "M05",
+        "reaction": "access_expired",
+        "art": "350:28724"
+      },
+      {
+        "screen": "102:11496",
+        "key": "M09",
+        "reaction": "upload_failed",
+        "art": "350:28727"
+      },
+      {
+        "screen": "102:11957",
+        "key": "M14",
+        "reaction": "not_found",
+        "art": "350:28732"
+      },
+      {
+        "screen": "102:12327",
+        "key": "M21",
+        "reaction": "payment_failed",
+        "art": "350:28737"
+      },
+      {
+        "screen": "102:12362",
+        "key": "M21p",
+        "reaction": "payment_uncertain",
+        "art": "350:28742"
+      },
+      {
+        "screen": "102:12394",
+        "key": "M21c",
+        "reaction": "cancelled",
+        "art": "350:28747"
+      },
+      {
+        "screen": "102:12427",
+        "key": "M21o",
+        "reaction": "offline",
+        "art": "350:28752"
+      },
+      {
+        "screen": "102:12882",
+        "key": "M30",
+        "reaction": "offline",
+        "art": "350:28757"
+      },
+      {
+        "screen": "102:12917",
+        "key": "M31",
+        "reaction": "cancelled",
+        "art": "350:28762"
+      },
+      {
+        "screen": "102:12957",
+        "key": "M31e",
+        "reaction": "cancelled",
+        "art": "350:28767"
+      }
+    ],
+    "reduced": [
+      {
+        "screen": "102:15442",
+        "key": "M03",
+        "reaction": "access_expired",
+        "art": "350:28773"
+      },
+      {
+        "screen": "102:15483",
+        "key": "M03e",
+        "reaction": "access_expired",
+        "art": "350:28778"
+      },
+      {
+        "screen": "102:15609",
+        "key": "M05",
+        "reaction": "access_expired",
+        "art": "350:28782"
+      },
+      {
+        "screen": "102:15812",
+        "key": "M09",
+        "reaction": "upload_failed",
+        "art": "350:28785"
+      },
+      {
+        "screen": "102:16273",
+        "key": "M14",
+        "reaction": "not_found",
+        "art": "350:28790"
+      },
+      {
+        "screen": "102:16643",
+        "key": "M21",
+        "reaction": "payment_failed",
+        "art": "350:28795"
+      },
+      {
+        "screen": "102:16678",
+        "key": "M21p",
+        "reaction": "payment_uncertain",
+        "art": "350:28800"
+      },
+      {
+        "screen": "102:16710",
+        "key": "M21c",
+        "reaction": "cancelled",
+        "art": "350:28805"
+      },
+      {
+        "screen": "102:16743",
+        "key": "M21o",
+        "reaction": "offline",
+        "art": "350:28810"
+      },
+      {
+        "screen": "102:17198",
+        "key": "M30",
+        "reaction": "offline",
+        "art": "350:28815"
+      },
+      {
+        "screen": "102:17233",
+        "key": "M31",
+        "reaction": "cancelled",
+        "art": "350:28820"
+      },
+      {
+        "screen": "102:17273",
+        "key": "M31e",
+        "reaction": "cancelled",
+        "art": "350:28825"
+      }
+    ]
+  },
+  "added": {
+    "mobile": [
+      {
+        "id": "351:5641",
+        "code": "E01",
+        "reaction": "offline",
+        "primary": "78:8337"
+      },
+      {
+        "id": "351:5676",
+        "code": "E02",
+        "reaction": "service_unavailable",
+        "primary": "78:8337"
+      },
+      {
+        "id": "351:5711",
+        "code": "E03",
+        "reaction": "not_found",
+        "primary": "78:8337"
+      },
+      {
+        "id": "351:5746",
+        "code": "E04",
+        "reaction": "access_expired",
+        "primary": "75:1387"
+      },
+      {
+        "id": "351:5781",
+        "code": "E05",
+        "reaction": "shop_unavailable",
+        "primary": "78:8691"
+      },
+      {
+        "id": "351:5816",
+        "code": "E06",
+        "reaction": "upload_failed",
+        "primary": "78:8395"
+      }
+    ],
+    "darkMobile": [
+      {
+        "id": "351:29565",
+        "code": "E01",
+        "reaction": "offline",
+        "primary": "102:11326"
+      },
+      {
+        "id": "351:29600",
+        "code": "E02",
+        "reaction": "service_unavailable",
+        "primary": "102:11326"
+      },
+      {
+        "id": "351:29635",
+        "code": "E03",
+        "reaction": "not_found",
+        "primary": "102:11326"
+      },
+      {
+        "id": "351:29670",
+        "code": "E04",
+        "reaction": "access_expired",
+        "primary": "102:10740"
+      },
+      {
+        "id": "351:29705",
+        "code": "E05",
+        "reaction": "shop_unavailable",
+        "primary": "102:11672"
+      },
+      {
+        "id": "351:29740",
+        "code": "E06",
+        "reaction": "upload_failed",
+        "primary": "102:11384"
+      }
+    ],
+    "reducedMobile": [
+      {
+        "id": "351:29775",
+        "code": "E01",
+        "reaction": "offline",
+        "primary": "102:15642"
+      },
+      {
+        "id": "351:29810",
+        "code": "E02",
+        "reaction": "service_unavailable",
+        "primary": "102:15642"
+      },
+      {
+        "id": "351:29845",
+        "code": "E03",
+        "reaction": "not_found",
+        "primary": "102:15642"
+      },
+      {
+        "id": "351:29880",
+        "code": "E04",
+        "reaction": "access_expired",
+        "primary": "102:15056"
+      },
+      {
+        "id": "351:29915",
+        "code": "E05",
+        "reaction": "shop_unavailable",
+        "primary": "102:15988"
+      },
+      {
+        "id": "351:29950",
+        "code": "E06",
+        "reaction": "upload_failed",
+        "primary": "102:15700"
+      }
+    ]
+  },
+  "website": {
+    "1440-Light": [
+      {
+        "id": "351:29985",
+        "code": "E01",
+        "reaction": "offline",
+        "width": 1440,
+        "theme": "Light"
+      },
+      {
+        "id": "351:30061",
+        "code": "E02",
+        "reaction": "service_unavailable",
+        "width": 1440,
+        "theme": "Light"
+      },
+      {
+        "id": "351:30137",
+        "code": "E03",
+        "reaction": "not_found",
+        "width": 1440,
+        "theme": "Light"
+      }
+    ],
+    "390-Light": [
+      {
+        "id": "351:30213",
+        "code": "E01",
+        "reaction": "offline",
+        "width": 390,
+        "theme": "Light"
+      },
+      {
+        "id": "351:30289",
+        "code": "E02",
+        "reaction": "service_unavailable",
+        "width": 390,
+        "theme": "Light"
+      },
+      {
+        "id": "351:30365",
+        "code": "E03",
+        "reaction": "not_found",
+        "width": 390,
+        "theme": "Light"
+      }
+    ],
+    "1440-Dark": [
+      {
+        "id": "351:30441",
+        "code": "E01",
+        "reaction": "offline",
+        "width": 1440,
+        "theme": "Dark"
+      },
+      {
+        "id": "351:30517",
+        "code": "E02",
+        "reaction": "service_unavailable",
+        "width": 1440,
+        "theme": "Dark"
+      },
+      {
+        "id": "351:30593",
+        "code": "E03",
+        "reaction": "not_found",
+        "width": 1440,
+        "theme": "Dark"
+      }
+    ],
+    "390-Dark": [
+      {
+        "id": "351:30669",
+        "code": "E01",
+        "reaction": "offline",
+        "width": 390,
+        "theme": "Dark"
+      },
+      {
+        "id": "351:30745",
+        "code": "E02",
+        "reaction": "service_unavailable",
+        "width": 390,
+        "theme": "Dark"
+      },
+      {
+        "id": "351:30821",
+        "code": "E03",
+        "reaction": "not_found",
+        "width": 390,
+        "theme": "Dark"
+      }
+    ]
+  }
+}

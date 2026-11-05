@@ -1,0 +1,129 @@
+{
+  "assets": [
+    {
+      "file": "access_expired.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "cancelled.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "not_found.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "offline.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "payment_failed.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "payment_uncertain.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "service_unavailable.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "shop_unavailable.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "upload_failed.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ]
+    }
+  ],
+  "mobileStructuralChecks": 54,
+  "webStructuralChecks": 12,
+  "structuralIssues": 0,
+  "renderedExamples": [
+    "payment failed light/dark",
+    "partial upload",
+    "OTP invalid with keyboard",
+    "service outage app",
+    "service outage desktop web",
+    "service outage mobile dark web"
+  ],
+  "limits": [
+    "poses are static PNGs",
+    "native component not compiled in repository",
+    "live API recovery not tested",
+    "partner/admin exhaustive rollout pending"
+  ]
+}

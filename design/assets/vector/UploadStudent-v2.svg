@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="460" viewBox="0 0 360 460" fill="none">
+  <title>UploadStudent — original individual vector character</title>
+  <desc>A student checks her phone while carrying a small print stack. Transparent artwork; independently editable body and prop groups.</desc>
+  <g id="UploadStudent" stroke="#2C1838" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <g id="hair-back" fill="#2C1838">
+      <path d="M149 43C137 43 129 51 129 62C119 65 114 76 119 85C108 92 111 105 121 109C116 119 125 131 138 130C143 140 159 139 165 128C179 130 189 117 184 104L174 65Z"/>
+    </g>
+    <g id="legs" fill="#FF9E79">
+      <path id="trousers" d="M124 234C146 240 183 240 210 233C214 251 214 271 221 287C225 303 239 318 235 331C231 350 213 379 201 410L176 406C181 381 184 359 188 338C186 325 176 314 167 302C158 318 155 335 151 353L140 411L113 405C114 378 119 355 122 331C124 317 120 301 116 285C113 266 116 249 124 234Z"/>
+      <path id="trouser-fold-left" d="M146 256C147 274 158 289 167 302"/>
+      <path id="trouser-fold-right" d="M209 283C216 298 222 311 220 322"/>
+      <path id="left-knee-seam" d="M127 340C133 342 140 342 146 340"/>
+      <path id="right-knee-seam" d="M198 329C206 332 216 333 226 332"/>
+      <path id="left-cuff" d="M113 394L142 400L140 412L112 405Z" fill="#6D35B1"/>
+      <path id="right-cuff" d="M180 394L206 400L201 412L176 406Z" fill="#6D35B1"/>
+    </g>
+    <g id="shoes" fill="#FFF7E8">
+      <path id="left-shoe" d="M114 406L137 411C138 420 147 424 146 433C132 438 103 437 94 431C94 424 105 421 114 406Z"/>
+      <path id="left-sole" d="M95 430C107 434 128 435 145 432"/>
+      <path id="left-lace" d="M116 416L126 418M112 422L122 424"/>
+      <path id="right-shoe" d="M179 407L201 412C201 418 210 421 221 424C229 426 231 432 226 436C211 440 189 431 173 423C171 418 174 412 179 407Z"/>
+      <path id="right-sole" d="M174 421C190 430 211 438 228 433"/>
+      <path id="right-lace" d="M190 417L183 421M197 421L190 425"/>
+    </g>
+    <g id="arms" fill="#FFF7E8">
+      <path id="right-arm" d="M225 148C233 149 239 162 246 175L267 207C270 211 274 209 275 203C276 184 272 165 269 147L284 139C291 159 296 185 291 209C289 225 280 236 266 233C249 229 230 201 217 180Z"/>
+      <path id="left-arm" d="M130 151C120 146 115 156 109 171L91 212C86 225 90 237 103 241C117 245 135 237 153 230L148 213L107 224C106 224 106 222 107 220L140 174Z"/>
+    </g>
+    <g id="face" fill="#FFF7E8">
+      <path id="neck" d="M176 96C181 107 179 115 172 125C172 139 194 147 206 135L212 123C200 119 198 109 201 95Z"/>
+      <path id="head" d="M157 50C166 33 194 35 209 51C215 61 215 70 216 75L225 83C227 85 225 88 215 90C215 103 204 113 192 112C179 111 169 104 165 93C151 90 147 83 149 75C150 70 154 67 158 67Z"/>
+      <path id="ear" d="M160 75C151 72 151 87 162 87M157 79C160 77 162 81 160 83"/>
+      <path id="eye-brow" d="M198 67C202 65 206 65 209 67"/>
+      <path id="eye" d="M204 72L204 75"/>
+      <path id="smile" d="M200 95C204 97 208 96 211 94"/>
+      <path id="cheek" d="M199 82L202 84" stroke="#FF9E79" stroke-width="5"/>
+    </g>
+    <g id="hair" fill="#2C1838">
+      <path id="hair-crown" d="M151 68C141 63 141 48 149 43C145 30 157 22 169 27C176 15 193 21 198 31C210 27 222 38 217 50C225 57 220 71 211 72C207 61 203 55 199 50C189 59 176 58 169 53C169 66 167 74 163 80L158 73Z"/>
+      <path id="hair-detail" d="M153 41C157 35 165 35 171 40M192 35C199 35 204 40 205 45" stroke="#65516C" stroke-width="2.5"/>
+    </g>
+    <g id="torso" fill="#FFFFFF">
+      <path id="shirt" d="M173 120C162 118 147 121 134 129C127 133 120 143 115 155L137 176L126 218L121 239C143 250 182 253 212 238L207 190L214 166L228 176L241 154C234 138 222 126 210 124C203 142 182 145 173 120Z"/>
+      <path id="neckline" d="M163 124C172 148 202 153 215 128"/>
+      <path id="left-sleeve-seam" d="M126 150L137 158"/>
+      <path id="right-sleeve-seam" d="M223 149L234 157"/>
+      <path id="shirt-fold" d="M149 195C148 209 146 219 140 225M195 224L200 236" stroke-width="2.5"/>
+      <path id="paper-pocket" d="M166 168L188 164L197 207L174 212Z" fill="#D8F36A"/>
+      <path id="pocket-fold" d="M188 164L181 178L190 177"/>
+      <path id="pocket-line" d="M177 187L188 185M180 194L190 192" stroke-width="2.5"/>
+    </g>
+    <g id="papers" fill="#FFF7E8">
+      <path id="print-bottom" d="M91 202L143 190L160 230L107 245Z" fill="#EDE4F5"/>
+      <path id="print-middle" d="M86 192L141 181L158 220L104 234Z"/>
+      <path id="print-top" d="M82 181L127 171L139 178L151 210L96 224Z" fill="#FFFFFF"/>
+      <path id="print-fold" d="M127 171L130 183L139 178Z" fill="#D8F36A"/>
+      <path id="print-heading" d="M97 189L125 182" stroke="#6D35B1" stroke-width="4"/>
+      <path id="print-line-01" d="M100 198L135 189M102 205L130 198" stroke-width="2.5"/>
+    </g>
+    <g id="phone" fill="#2C1838">
+      <path id="phone-body" d="M258 103C256 101 252 102 251 105L244 148C243 152 245 155 249 156L272 159C276 159 278 157 279 153L285 111C286 107 283 105 280 104Z"/>
+      <path id="phone-screen" d="M257 111L278 113L273 145L252 143Z" fill="#EDE4F5" stroke-width="2.5"/>
+      <path id="phone-document" d="M259 119L267 120L272 125L269 137L257 135Z" fill="#FFFFFF" stroke-width="2"/>
+      <path id="phone-fold" d="M267 120L266 125L272 125" stroke-width="2"/>
+      <path id="phone-home" d="M257 150L265 151" stroke="#FFF7E8" stroke-width="2.5"/>
+    </g>
+    <g id="hands" fill="#FFF7E8">
+      <path id="left-hand" d="M146 213C151 209 155 207 159 204C163 201 167 202 168 206C167 209 161 213 160 214C168 214 174 212 178 212C183 212 184 217 180 219L164 223L176 222C181 222 182 227 178 229L164 232C158 235 151 234 147 230Z"/>
+      <path id="left-fingers" d="M155 224L165 223M156 230L164 228" stroke-width="2.5"/>
+      <path id="right-hand" d="M270 149L272 139C269 136 265 132 265 128C264 124 267 122 270 125L276 131L277 124C278 121 282 121 283 125L283 130C287 128 290 131 288 135L284 140C288 139 291 142 288 146L282 154Z"/>
+      <path id="right-finger" d="M278 138L283 130M279 145L284 140" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

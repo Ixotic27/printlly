@@ -1,0 +1,25 @@
+{
+  "set": "347:547",
+  "components": {
+    "payment_failed": "347:529",
+    "payment_uncertain": "347:531",
+    "cancelled": "347:533",
+    "offline": "347:535",
+    "service_unavailable": "347:537",
+    "not_found": "347:539",
+    "upload_failed": "347:541",
+    "access_expired": "347:543",
+    "shop_unavailable": "347:545"
+  },
+  "slots": [
+    "347:530",
+    "347:532",
+    "347:534",
+    "347:536",
+    "347:538",
+    "347:540",
+    "347:542",
+    "347:544",
+    "347:546"
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "asset": "01-welcome",
+    "gif_frames": 18,
+    "webp_frames": 18,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "02-verification",
+    "gif_frames": 12,
+    "webp_frames": 12,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "03-upload-empty",
+    "gif_frames": 12,
+    "webp_frames": 12,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "04-upload-progress",
+    "gif_frames": 48,
+    "webp_frames": 48,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "05-upload-complete",
+    "gif_frames": 18,
+    "webp_frames": 18,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "06-print-settings",
+    "gif_frames": 18,
+    "webp_frames": 18,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "07-shop-search",
+    "gif_frames": 23,
+    "webp_frames": 23,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "08-shop-selected",
+    "gif_frames": 12,
+    "webp_frames": 12,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "09-payment-processing",
+    "gif_frames": 48,
+    "webp_frames": 48,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "10-payment-success",
+    "gif_frames": 17,
+    "webp_frames": 17,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "11-order-pending",
+    "gif_frames": 12,
+    "webp_frames": 12,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "12-order-accepted",
+    "gif_frames": 18,
+    "webp_frames": 18,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "13-ready-for-pickup",
+    "gif_frames": 18,
+    "webp_frames": 18,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "14-order-completed",
+    "gif_frames": 17,
+    "webp_frames": 17,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "15-retry-error",
+    "gif_frames": 13,
+    "webp_frames": 13,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "16-order-cancelled",
+    "gif_frames": 12,
+    "webp_frames": 12,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "17-order-expired",
+    "gif_frames": 12,
+    "webp_frames": 12,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "18-empty-dashboard",
+    "gif_frames": 18,
+    "webp_frames": 18,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "19-partner-dashboard",
+    "gif_frames": 17,
+    "webp_frames": 17,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  },
+  {
+    "asset": "20-admin-review",
+    "gif_frames": 12,
+    "webp_frames": 12,
+    "gif_duration_ms": 2000,
+    "changes_between_start_and_mid": true,
+    "alpha": true,
+    "within_canvas": true
+  }
+]

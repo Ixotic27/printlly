@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="460" viewBox="0 0 360 460" fill="none">
+  <title>UploadStudent — original individual vector character</title>
+  <desc>A student checks her phone while carrying a small print stack. Transparent artwork; independently editable body and prop groups.</desc>
+  <g id="UploadStudent" stroke="#2C1838" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <g id="hair-back" fill="#2C1838">
+      <path d="M149 43C137 43 129 51 129 62C119 65 114 76 119 85C108 92 111 105 121 109C116 119 125 131 138 130C143 140 159 139 165 128C179 130 189 117 184 104L174 65Z"/>
+    </g>
+    <g id="legs" fill="#FF9E79">
+      <path id="trousers" d="M124 234C146 240 183 240 210 233C213 258 223 286 229 309C235 331 227 347 220 366L202 407C194 412 184 411 176 406C180 386 184 367 187 349C190 331 177 316 167 302C155 321 153 345 149 366L140 409C131 413 119 410 112 405C114 380 118 357 121 334C124 311 116 296 115 277C113 260 117 245 124 234Z"/>
+      <path id="trouser-fold-left" d="M146 256C147 274 157 288 167 302"/>
+      <path id="trouser-fold-right" d="M205 280C210 293 219 306 220 319"/>
+      <path id="left-knee-seam" d="M128 339C134 341 140 341 144 339"/>
+      <path id="right-knee-seam" d="M204 330C209 332 215 332 220 330"/>
+      <path id="left-cuff" d="M114 394C123 396 133 398 142 399L140 411C131 412 119 410 112 407Z" fill="#6D35B1"/>
+      <path id="right-cuff" d="M179 393C187 396 196 398 205 399L201 412C193 412 183 409 175 406Z" fill="#6D35B1"/>
+    </g>
+    <g id="shoes" fill="#FFF7E8">
+      <path id="left-shoe" d="M114 407C121 410 130 412 137 412C138 418 142 422 145 427C148 432 145 435 139 436C127 438 108 437 99 435C91 433 93 428 98 424C105 418 111 413 114 407Z"/>
+      <path id="left-sole" d="M95 432C108 435 128 436 145 433"/>
+      <path id="left-lace" d="M115 417L126 419M111 423L121 425"/>
+      <path id="right-shoe" d="M177 406C184 409 193 412 201 412C203 418 214 422 222 425C229 428 231 433 225 436C214 440 194 435 178 429C171 427 171 422 173 417C174 413 176 409 177 406Z"/>
+      <path id="right-sole" d="M173 424C187 431 210 439 228 434"/>
+      <path id="right-lace" d="M186 417L194 420M181 421L189 424"/>
+    </g>
+    <g id="arms" fill="#FFF7E8">
+      <path id="right-arm" d="M225 148C233 149 239 162 246 175L267 207C270 211 274 209 275 203C276 184 272 165 269 147L284 139C291 159 296 185 291 209C289 225 280 236 266 233C249 229 230 201 217 180Z"/>
+      <path id="left-arm" d="M130 151C120 146 115 156 109 171L91 212C86 225 90 237 103 241C117 245 135 237 153 230L148 213L107 224C106 224 106 222 107 220L140 174Z"/>
+    </g>
+    <g id="face" fill="#FFF7E8">
+      <path id="neck" d="M176 96C181 107 179 115 172 125C172 139 194 147 206 135L212 123C200 119 198 109 201 95Z"/>
+      <path id="head" d="M157 50C166 33 194 35 209 51C215 61 215 70 216 75L225 83C227 85 225 88 215 90C215 103 204 113 192 112C179 111 169 104 165 93C151 90 147 83 149 75C150 70 154 67 158 67Z"/>
+      <path id="ear" d="M160 75C151 72 151 87 162 87M157 79C160 77 162 81 160 83"/>
+      <path id="eye-brow" d="M198 67C202 65 206 65 209 67"/>
+      <path id="eye" d="M204 72L204 75"/>
+      <path id="smile" d="M200 95C204 97 208 96 211 94"/>
+      <path id="cheek" d="M199 82L202 84" stroke="#FF9E79" stroke-width="5"/>
+    </g>
+    <g id="hair" fill="#2C1838">
+      <path id="hair-crown" d="M151 68C141 63 141 48 149 43C145 30 157 22 169 27C176 15 193 21 198 31C210 27 222 38 217 50C225 57 220 71 211 72C207 61 203 55 199 50C189 59 176 58 169 53C169 66 167 74 163 80L158 73Z"/>
+      <path id="hair-detail" d="M153 41C157 35 165 35 171 40M192 35C199 35 204 40 205 45" stroke="#65516C" stroke-width="2.5"/>
+    </g>
+    <g id="torso" fill="#FFFFFF">
+      <path id="shirt" d="M173 120C162 118 147 121 134 129C127 133 120 143 115 155L137 176L126 218L121 239C143 250 182 253 212 238L207 190L214 166L228 176L241 154C234 138 222 126 210 124C203 142 182 145 173 120Z"/>
+      <path id="neckline" d="M163 124C172 148 202 153 215 128"/>
+      <path id="left-sleeve-seam" d="M126 150L137 158"/>
+      <path id="right-sleeve-seam" d="M223 149L234 157"/>
+      <path id="shirt-fold" d="M149 195C148 209 146 219 140 225M195 224L200 236" stroke-width="2.5"/>
+      <path id="paper-pocket" d="M166 168L188 164L197 207L174 212Z" fill="#D8F36A"/>
+      <path id="pocket-fold" d="M188 164L181 178L190 177"/>
+      <path id="pocket-line" d="M177 187L188 185M180 194L190 192" stroke-width="2.5"/>
+    </g>
+    <g id="papers" fill="#FFF7E8">
+      <path id="print-bottom" d="M91 202L143 190L160 230L107 245Z" fill="#EDE4F5"/>
+      <path id="print-middle" d="M86 192L141 181L158 220L104 234Z"/>
+      <path id="print-top" d="M82 181L127 171L139 178L151 210L96 224Z" fill="#FFFFFF"/>
+      <path id="print-fold" d="M127 171L130 183L139 178Z" fill="#D8F36A"/>
+      <path id="print-heading" d="M97 189L125 182" stroke="#6D35B1" stroke-width="4"/>
+      <path id="print-line-01" d="M100 198L135 189M102 205L130 198" stroke-width="2.5"/>
+    </g>
+    <g id="phone" fill="#2C1838">
+      <path id="phone-body" d="M258 103C256 101 252 102 251 105L244 148C243 152 245 155 249 156L272 159C276 159 278 157 279 153L285 111C286 107 283 105 280 104Z"/>
+      <path id="phone-screen" d="M257 111L278 113L273 145L252 143Z" fill="#EDE4F5" stroke-width="2.5"/>
+      <path id="phone-document" d="M259 119L267 120L272 125L269 137L257 135Z" fill="#FFFFFF" stroke-width="2"/>
+      <path id="phone-fold" d="M267 120L266 125L272 125" stroke-width="2"/>
+      <path id="phone-home" d="M257 150L265 151" stroke="#FFF7E8" stroke-width="2.5"/>
+    </g>
+    <g id="hands" fill="#FFF7E8">
+      <path id="left-hand" d="M146 213C151 209 155 207 159 204C163 201 167 202 168 206C167 209 161 213 160 214C168 214 174 212 178 212C183 212 184 217 180 219L164 223L176 222C181 222 182 227 178 229L164 232C158 235 151 234 147 230Z"/>
+      <path id="left-fingers" d="M155 224L165 223M156 230L164 228" stroke-width="2.5"/>
+      <path id="right-hand" d="M270 149L272 139C269 136 265 132 265 128C264 124 267 122 270 125L276 131L277 124C278 121 282 121 283 125L283 130C287 128 290 131 288 135L284 140C288 139 291 142 288 146L282 154Z"/>
+      <path id="right-finger" d="M278 138L283 130M279 145L284 140" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

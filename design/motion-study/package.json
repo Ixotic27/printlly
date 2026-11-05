@@ -1,0 +1,15 @@
+{
+  "name": "printlly-motion-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Isolated image-based Printlly motion proof. No application runtime dependencies.",
+  "scripts": {
+    "check": "hyperframes check --json",
+    "studio": "hyperframes preview --background --port 3017",
+    "render": "hyperframes render --quality looks --workers 1 --output printlly-image-motion.mp4"
+  },
+  "dependencies": {
+    "gsap": "3.14.2",
+    "hyperframes": "latest"
+  }
+}

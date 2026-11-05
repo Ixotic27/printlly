@@ -1,0 +1,16 @@
+{
+  "captures": [
+    "shop-unavailable-light.png",
+    "no-matching-shops-light.png",
+    "shop-unavailable-dark.png",
+    "no-matching-shops-dark.png"
+  ],
+  "applicationErrors": [],
+  "checks": [
+    "logo detached",
+    "all mounted images complete with naturalWidth",
+    "font readiness",
+    "no horizontal overflow"
+  ],
+  "surface": "Actual Expo web screens; synthetic existing API responses"
+}

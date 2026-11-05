@@ -1,0 +1,11 @@
+{
+  "duration": 3.8,
+  "foldStart": 0.55,
+  "movementStart": 2.1,
+  "movementEnd": 3.68,
+  "movementPeak": 0.01,
+  "foldPeak": 0.11,
+  "peak": 0.1099853515625,
+  "rmsDbfs": -51.07463614073396,
+  "clippedSamples": 0
+}

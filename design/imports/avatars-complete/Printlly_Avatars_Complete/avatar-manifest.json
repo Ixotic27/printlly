@@ -1,0 +1,146 @@
+[
+  {
+    "id": "00-default-mascot",
+    "file": "avatars-png/00-default-mascot.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "01-user-customer",
+    "file": "avatars-png/01-user-customer.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "02-student",
+    "file": "avatars-png/02-student.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "03-vendor",
+    "file": "avatars-png/03-vendor.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "04-admin",
+    "file": "avatars-png/04-admin.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "05-support",
+    "file": "avatars-png/05-support.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "06-avatar",
+    "file": "avatars-png/06-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "07-avatar",
+    "file": "avatars-png/07-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "08-avatar",
+    "file": "avatars-png/08-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "09-avatar",
+    "file": "avatars-png/09-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "10-avatar",
+    "file": "avatars-png/10-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "11-avatar",
+    "file": "avatars-png/11-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "12-avatar",
+    "file": "avatars-png/12-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "13-avatar",
+    "file": "avatars-png/13-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "14-avatar",
+    "file": "avatars-png/14-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "15-avatar",
+    "file": "avatars-png/15-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "16-avatar",
+    "file": "avatars-png/16-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  },
+  {
+    "id": "17-avatar",
+    "file": "avatars-png/17-avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "transparent_corners": true,
+    "type": "static-preset-avatar"
+  }
+]

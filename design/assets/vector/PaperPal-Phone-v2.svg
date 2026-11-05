@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" fill="none">
+<title>Printlly PaperPal — Phone</title>
+<desc>Original individual folded-paper mascot, independently editable named vector parts. Face remains above its satchel. Transparent background.</desc>
+<g id="PaperPal" stroke="#2C1838" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <g id="LegLeft"><path id="LegLeftShape" d="M120 220 L139 220 L139 269 L120 269 Z" fill="#6D35B1"/></g>
+  <g id="LegRight"><path id="LegRightShape" d="M184 220 L203 220 L208 267 L189 270 Z" fill="#6D35B1"/></g>
+  <g id="ShoeLeft"><path id="ShoeLeftShape" d="M120 258 C128 263 134 263 140 259 L145 270 C148 276 145 283 140 284 L103 284 C99 284 97 280 99 276 C102 270 114 270 120 258 Z" fill="#FF9E79"/></g>
+  <g id="ShoeRight"><path id="ShoeRightShape" d="M189 260 C196 265 202 265 208 259 L225 270 C230 273 232 279 228 284 L191 284 C186 281 185 272 189 260 Z" fill="#FF9E79"/></g>
+  <g id="ArmLeft"><path id="ArmLeftShape" d="M100 147 C82 143 63 149 54 164 C48 175 51 189 64 192 C72 194 77 190 77 183 C65 182 66 173 74 168 C82 163 91 166 100 170 Z" fill="#FFF7E8"/></g>
+  <g id="ArmRight"><path id="ArmRightShape" d="M232 146 C249 146 264 156 270 170 C277 186 270 200 258 201 C251 201 248 195 252 190 C261 184 258 177 252 172 C246 168 239 169 232 169 Z" fill="#FFF7E8"/></g>
+  <g id="PaperBody"><path id="PaperBodyShape" d="M108 38 L204 38 C210 38 213 41 217 45 L238 66 C242 70 244 73 244 80 L244 215 C244 226 235 235 224 235 L108 235 C97 235 88 226 88 215 L88 58 C88 47 97 38 108 38 Z" fill="#FFF7E8"/></g>
+  <g id="Fold"><path id="FoldShape" d="M206 39 L206 65 C206 73 211 77 219 77 L243 77 Z" fill="#EDE4F5"/></g>
+  <g id="Brows" fill="#2C1838" stroke="none">
+    <path id="BrowLeft" d="M124 91 C130 86 139 85 145 89 C147 91 145 94 143 93 C137 91 132 91 127 94 C124 95 122 93 124 91 Z"/>
+    <path id="BrowRight" d="M171 89 C178 85 186 87 191 91 C193 93 191 96 189 94 C184 92 179 91 173 93 C170 94 169 91 171 89 Z"/>
+  </g>
+  <g id="EyeLeft"><path id="EyeLeftShape" d="M132 102 C132 98 140 98 140 102 L140 109 C140 114 132 114 132 109 Z" fill="#2C1838" stroke="none"/></g>
+  <g id="EyeRight"><path id="EyeRightShape" d="M179 102 C179 98 187 98 187 102 L187 109 C187 114 179 114 179 109 Z" fill="#2C1838" stroke="none"/></g>
+  <g id="Mouth"><path id="MouthShape" d="M143 121 C151 129 165 131 176 123 C179 123 180 125 178 128 C167 139 151 136 141 126 C139 123 141 120 143 121 Z" fill="#2C1838" stroke="none"/></g>
+  <g id="Satchel">
+    <path id="SatchelStrap" d="M93 153 L102 150 L224 186 L222 198 Z" fill="#6D35B1"/>
+    <path id="SatchelBody" d="M204 177 L246 177 C251 177 254 180 254 185 L254 222 C254 228 250 232 244 232 L205 232 C200 232 197 228 197 223 L197 185 C197 180 200 177 204 177 Z" fill="#6D35B1"/>
+    <path id="SatchelFlap" d="M204 177 L247 177 C251 177 254 180 254 185 L254 194 C241 203 212 203 197 194 L197 185 C197 180 200 177 204 177 Z" fill="#EDE4F5"/>
+    <path id="SatchelClasp" d="M221 196 L230 196 L230 206 L221 206 Z" fill="#D8F36A" stroke-width="2.5"/>
+  </g>
+  <g id="Ticket">
+    <path id="TicketShape" d="M33 164 C33 160 36 158 40 158 L91 166 L88 203 L37 195 C33 194 31 191 31 188 Z" fill="#D8F36A"/>
+    <path id="TicketFold" d="M63 162 L59 198 L88 203 L91 166 Z" fill="#D8F36A" stroke-width="2"/>
+    <path id="TicketMark" d="M42 173 L53 175 L52 180 L41 178 Z" fill="#2C1838" stroke="none"/>
+  </g>
+</g>
+</svg>

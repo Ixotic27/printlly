@@ -1,0 +1,21 @@
+{
+  "captures": [
+    "shop-placeholder-light.png",
+    "not-found-light.png",
+    "partial-upload-light.png",
+    "unsupported-file-light.png",
+    "shop-placeholder-dark.png",
+    "not-found-dark.png",
+    "partial-upload-dark.png",
+    "unsupported-file-dark.png"
+  ],
+  "applicationErrors": [],
+  "checks": [
+    "logo detached",
+    "all mounted images complete with naturalWidth",
+    "font readiness",
+    "no horizontal overflow",
+    "unsupported file rejected before request"
+  ],
+  "surface": "Actual Expo web screens; synthetic existing API responses"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "paper-opening-A-minimal",
+    "duration": 4.6,
+    "sampleRate": 48000,
+    "stereo": true,
+    "peak": 0.14175000000000001,
+    "peakDbfs": -16.969538648701118,
+    "rmsDbfs": -34.916094762532644,
+    "clippedSamples": 0
+  },
+  {
+    "name": "paper-opening-B-rustle",
+    "duration": 4.6,
+    "sampleRate": 48000,
+    "stereo": true,
+    "peak": 0.19425,
+    "peakDbfs": -14.232779450540962,
+    "rmsDbfs": -32.00727436136256,
+    "clippedSamples": 0
+  }
+]

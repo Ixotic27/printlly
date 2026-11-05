@@ -1,0 +1,5887 @@
+[
+  {
+    "node": "65:4",
+    "name": "01-welcome",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 26,
+          "1": 159,
+          "2": 161,
+          "3": 13,
+          "4": 21,
+          "5": 23,
+          "6": 234,
+          "7": 12,
+          "8": 107,
+          "9": 116,
+          "10": 8,
+          "11": 84,
+          "12": 109,
+          "13": 131,
+          "14": 58,
+          "15": 142,
+          "16": 230,
+          "17": 86,
+          "18": 117,
+          "19": 183
+        },
+        "name": "01-welcome"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 84,
+          "1": 140,
+          "2": 119,
+          "3": 254,
+          "4": 5,
+          "5": 213,
+          "6": 97,
+          "7": 48,
+          "8": 214,
+          "9": 240,
+          "10": 191,
+          "11": 126,
+          "12": 123,
+          "13": 172,
+          "14": 241,
+          "15": 55,
+          "16": 184,
+          "17": 118,
+          "18": 110,
+          "19": 88
+        },
+        "name": "01-welcome"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "1a9fa10d1517ea0c6b7408546d833a8ee65675b7",
+    "file": "assets/1a9fa10d1517ea0c6b7408546d833a8ee65675b7.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "01-welcome"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:5",
+    "name": "02-verification",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 155,
+          "1": 10,
+          "2": 92,
+          "3": 72,
+          "4": 151,
+          "5": 94,
+          "6": 98,
+          "7": 52,
+          "8": 175,
+          "9": 189,
+          "10": 157,
+          "11": 110,
+          "12": 130,
+          "13": 13,
+          "14": 224,
+          "15": 82,
+          "16": 219,
+          "17": 82,
+          "18": 70,
+          "19": 73
+        },
+        "name": "02-verification"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "02-verification"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:6",
+    "name": "03-upload-empty",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 213,
+          "1": 125,
+          "2": 143,
+          "3": 209,
+          "4": 214,
+          "5": 37,
+          "6": 127,
+          "7": 53,
+          "8": 213,
+          "9": 28,
+          "10": 115,
+          "11": 253,
+          "12": 229,
+          "13": 17,
+          "14": 215,
+          "15": 227,
+          "16": 31,
+          "17": 178,
+          "18": 2,
+          "19": 43
+        },
+        "name": "03-upload-empty"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "03-upload-empty"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:7",
+    "name": "04-upload-progress",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 188,
+          "1": 61,
+          "2": 159,
+          "3": 137,
+          "4": 174,
+          "5": 193,
+          "6": 232,
+          "7": 174,
+          "8": 89,
+          "9": 118,
+          "10": 199,
+          "11": 216,
+          "12": 56,
+          "13": 105,
+          "14": 229,
+          "15": 146,
+          "16": 90,
+          "17": 229,
+          "18": 255,
+          "19": 165
+        },
+        "name": "04-upload-progress"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "04-upload-progress"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:8",
+    "name": "05-upload-complete",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 198,
+          "1": 190,
+          "2": 186,
+          "3": 159,
+          "4": 18,
+          "5": 22,
+          "6": 127,
+          "7": 154,
+          "8": 50,
+          "9": 172,
+          "10": 25,
+          "11": 202,
+          "12": 220,
+          "13": 179,
+          "14": 70,
+          "15": 45,
+          "16": 251,
+          "17": 186,
+          "18": 174,
+          "19": 228
+        },
+        "name": "05-upload-complete"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "05-upload-complete"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:9",
+    "name": "06-print-settings",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 10,
+          "1": 16,
+          "2": 71,
+          "3": 209,
+          "4": 68,
+          "5": 241,
+          "6": 107,
+          "7": 22,
+          "8": 125,
+          "9": 98,
+          "10": 209,
+          "11": 110,
+          "12": 128,
+          "13": 136,
+          "14": 61,
+          "15": 241,
+          "16": 221,
+          "17": 90,
+          "18": 196,
+          "19": 223
+        },
+        "name": "06-print-settings"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "06-print-settings"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:10",
+    "name": "07-shop-search",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 59,
+          "1": 131,
+          "2": 136,
+          "3": 33,
+          "4": 21,
+          "5": 188,
+          "6": 148,
+          "7": 240,
+          "8": 52,
+          "9": 46,
+          "10": 90,
+          "11": 210,
+          "12": 181,
+          "13": 183,
+          "14": 245,
+          "15": 62,
+          "16": 248,
+          "17": 27,
+          "18": 89,
+          "19": 95
+        },
+        "name": "07-shop-search"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "07-shop-search"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:11",
+    "name": "08-shop-selected",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 19,
+          "1": 22,
+          "2": 8,
+          "3": 68,
+          "4": 243,
+          "5": 68,
+          "6": 14,
+          "7": 198,
+          "8": 155,
+          "9": 243,
+          "10": 147,
+          "11": 169,
+          "12": 96,
+          "13": 21,
+          "14": 86,
+          "15": 192,
+          "16": 42,
+          "17": 0,
+          "18": 94,
+          "19": 126
+        },
+        "name": "08-shop-selected"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "08-shop-selected"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:12",
+    "name": "09-payment-processing",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 26,
+          "1": 122,
+          "2": 178,
+          "3": 218,
+          "4": 172,
+          "5": 94,
+          "6": 49,
+          "7": 11,
+          "8": 211,
+          "9": 21,
+          "10": 230,
+          "11": 12,
+          "12": 116,
+          "13": 163,
+          "14": 176,
+          "15": 132,
+          "16": 65,
+          "17": 203,
+          "18": 167,
+          "19": 44
+        },
+        "name": "09-payment-processing"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "09-payment-processing"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:13",
+    "name": "10-payment-success",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 51,
+          "1": 69,
+          "2": 226,
+          "3": 247,
+          "4": 68,
+          "5": 117,
+          "6": 133,
+          "7": 119,
+          "8": 185,
+          "9": 29,
+          "10": 225,
+          "11": 129,
+          "12": 232,
+          "13": 8,
+          "14": 145,
+          "15": 170,
+          "16": 79,
+          "17": 183,
+          "18": 209,
+          "19": 229
+        },
+        "name": "10-payment-success"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "10-payment-success"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:14",
+    "name": "11-order-pending",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 72,
+          "1": 207,
+          "2": 4,
+          "3": 239,
+          "4": 222,
+          "5": 18,
+          "6": 251,
+          "7": 1,
+          "8": 228,
+          "9": 155,
+          "10": 155,
+          "11": 101,
+          "12": 188,
+          "13": 198,
+          "14": 158,
+          "15": 210,
+          "16": 243,
+          "17": 31,
+          "18": 58,
+          "19": 79
+        },
+        "name": "11-order-pending"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "11-order-pending"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:15",
+    "name": "12-order-accepted",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 146,
+          "1": 181,
+          "2": 176,
+          "3": 200,
+          "4": 164,
+          "5": 48,
+          "6": 54,
+          "7": 87,
+          "8": 36,
+          "9": 184,
+          "10": 64,
+          "11": 16,
+          "12": 113,
+          "13": 61,
+          "14": 90,
+          "15": 96,
+          "16": 112,
+          "17": 164,
+          "18": 69,
+          "19": 225
+        },
+        "name": "12-order-accepted"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "12-order-accepted"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:16",
+    "name": "13-ready-for-pickup",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 168,
+          "1": 64,
+          "2": 170,
+          "3": 181,
+          "4": 8,
+          "5": 10,
+          "6": 77,
+          "7": 164,
+          "8": 180,
+          "9": 29,
+          "10": 83,
+          "11": 250,
+          "12": 20,
+          "13": 79,
+          "14": 197,
+          "15": 243,
+          "16": 5,
+          "17": 31,
+          "18": 108,
+          "19": 108
+        },
+        "name": "13-ready-for-pickup"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "13-ready-for-pickup"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:17",
+    "name": "14-order-completed",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 151,
+          "1": 174,
+          "2": 121,
+          "3": 169,
+          "4": 204,
+          "5": 100,
+          "6": 177,
+          "7": 72,
+          "8": 255,
+          "9": 67,
+          "10": 9,
+          "11": 10,
+          "12": 52,
+          "13": 61,
+          "14": 70,
+          "15": 153,
+          "16": 200,
+          "17": 207,
+          "18": 85,
+          "19": 198
+        },
+        "name": "14-order-completed"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "14-order-completed"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:18",
+    "name": "15-retry-error",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 134,
+          "1": 28,
+          "2": 40,
+          "3": 71,
+          "4": 153,
+          "5": 97,
+          "6": 7,
+          "7": 89,
+          "8": 17,
+          "9": 236,
+          "10": 26,
+          "11": 56,
+          "12": 34,
+          "13": 96,
+          "14": 7,
+          "15": 218,
+          "16": 55,
+          "17": 66,
+          "18": 83,
+          "19": 46
+        },
+        "name": "15-retry-error"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "15-retry-error"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:19",
+    "name": "16-order-cancelled",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 166,
+          "1": 27,
+          "2": 142,
+          "3": 180,
+          "4": 213,
+          "5": 63,
+          "6": 68,
+          "7": 60,
+          "8": 48,
+          "9": 51,
+          "10": 158,
+          "11": 0,
+          "12": 95,
+          "13": 224,
+          "14": 54,
+          "15": 187,
+          "16": 133,
+          "17": 192,
+          "18": 82,
+          "19": 228
+        },
+        "name": "16-order-cancelled"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "16-order-cancelled"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:20",
+    "name": "17-order-expired",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 104,
+          "1": 195,
+          "2": 177,
+          "3": 48,
+          "4": 145,
+          "5": 190,
+          "6": 77,
+          "7": 154,
+          "8": 179,
+          "9": 118,
+          "10": 16,
+          "11": 234,
+          "12": 99,
+          "13": 34,
+          "14": 64,
+          "15": 193,
+          "16": 46,
+          "17": 204,
+          "18": 70,
+          "19": 76
+        },
+        "name": "17-order-expired"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "17-order-expired"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:21",
+    "name": "18-empty-dashboard",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 173,
+          "1": 183,
+          "2": 74,
+          "3": 170,
+          "4": 132,
+          "5": 195,
+          "6": 180,
+          "7": 241,
+          "8": 255,
+          "9": 53,
+          "10": 101,
+          "11": 31,
+          "12": 209,
+          "13": 79,
+          "14": 52,
+          "15": 214,
+          "16": 206,
+          "17": 242,
+          "18": 45,
+          "19": 203
+        },
+        "name": "18-empty-dashboard"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "18-empty-dashboard"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:22",
+    "name": "19-partner-dashboard",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 218,
+          "1": 131,
+          "2": 49,
+          "3": 246,
+          "4": 103,
+          "5": 233,
+          "6": 92,
+          "7": 235,
+          "8": 139,
+          "9": 203,
+          "10": 150,
+          "11": 70,
+          "12": 156,
+          "13": 121,
+          "14": 176,
+          "15": 154,
+          "16": 90,
+          "17": 237,
+          "18": 33,
+          "19": 159
+        },
+        "name": "19-partner-dashboard"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "19-partner-dashboard"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:23",
+    "name": "20-admin-review",
+    "size": {
+      "x": 512,
+      "y": 512
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 121,
+          "1": 218,
+          "2": 170,
+          "3": 48,
+          "4": 207,
+          "5": 116,
+          "6": 162,
+          "7": 43,
+          "8": 122,
+          "9": 201,
+          "10": 97,
+          "11": 10,
+          "12": 182,
+          "13": 12,
+          "14": 126,
+          "15": 41,
+          "16": 220,
+          "17": 155,
+          "18": 82,
+          "19": 25
+        },
+        "name": "02-verification"
+      },
+      "animatedImage": {
+        "hash": {
+          "0": 203,
+          "1": 220,
+          "2": 77,
+          "3": 137,
+          "4": 10,
+          "5": 39,
+          "6": 16,
+          "7": 109,
+          "8": 169,
+          "9": 46,
+          "10": 140,
+          "11": 78,
+          "12": 34,
+          "13": 40,
+          "14": 33,
+          "15": 130,
+          "16": 69,
+          "17": 98,
+          "18": 246,
+          "19": 13
+        },
+        "name": "20-admin-review"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 512,
+      "originalImageHeight": 512,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "79daaa30cf74a22b7ac9610ab60c7e29dc9b5219",
+    "file": "assets/79daaa30cf74a22b7ac9610ab60c7e29dc9b5219.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "20-admin-review"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:24",
+    "name": "user-customer",
+    "size": {
+      "x": 512,
+      "y": 768
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 122,
+          "1": 13,
+          "2": 94,
+          "3": 209,
+          "4": 1,
+          "5": 58,
+          "6": 48,
+          "7": 209,
+          "8": 106,
+          "9": 194,
+          "10": 143,
+          "11": 116,
+          "12": 206,
+          "13": 5,
+          "14": 38,
+          "15": 12,
+          "16": 35,
+          "17": 70,
+          "18": 6,
+          "19": 209
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "7a0d5ed1013a30d16ac28f74ce05260c234606d1",
+    "file": "assets/7a0d5ed1013a30d16ac28f74ce05260c234606d1.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "user-customer"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:25",
+    "name": "student-v2",
+    "size": {
+      "x": 512,
+      "y": 768
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 148,
+          "1": 233,
+          "2": 17,
+          "3": 33,
+          "4": 188,
+          "5": 51,
+          "6": 165,
+          "7": 193,
+          "8": 33,
+          "9": 230,
+          "10": 233,
+          "11": 241,
+          "12": 169,
+          "13": 147,
+          "14": 214,
+          "15": 84,
+          "16": 241,
+          "17": 213,
+          "18": 44,
+          "19": 227
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "94e91121bc33a5c121e6e9f1a993d654f1d52ce3",
+    "file": "assets/94e91121bc33a5c121e6e9f1a993d654f1d52ce3.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "student-v2"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:26",
+    "name": "vendor",
+    "size": {
+      "x": 512,
+      "y": 768
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 70,
+          "1": 244,
+          "2": 142,
+          "3": 91,
+          "4": 114,
+          "5": 231,
+          "6": 152,
+          "7": 72,
+          "8": 83,
+          "9": 154,
+          "10": 28,
+          "11": 111,
+          "12": 80,
+          "13": 238,
+          "14": 223,
+          "15": 71,
+          "16": 187,
+          "17": 35,
+          "18": 22,
+          "19": 110
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "46f48e5b72e79848539a1c6f50eedf47bb23166e",
+    "file": "assets/46f48e5b72e79848539a1c6f50eedf47bb23166e.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "vendor"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:27",
+    "name": "admin",
+    "size": {
+      "x": 512,
+      "y": 768
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 56,
+          "1": 125,
+          "2": 38,
+          "3": 89,
+          "4": 135,
+          "5": 64,
+          "6": 227,
+          "7": 23,
+          "8": 149,
+          "9": 5,
+          "10": 208,
+          "11": 151,
+          "12": 217,
+          "13": 32,
+          "14": 43,
+          "15": 203,
+          "16": 137,
+          "17": 85,
+          "18": 107,
+          "19": 158
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "387d26598740e3179505d097d9202bcb89556b9e",
+    "file": "assets/387d26598740e3179505d097d9202bcb89556b9e.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "admin"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "65:28",
+    "name": "support",
+    "size": {
+      "x": 512,
+      "y": 768
+    },
+    "parent": "65:29",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 67,
+          "1": 104,
+          "2": 242,
+          "3": 241,
+          "4": 236,
+          "5": 43,
+          "6": 251,
+          "7": 171,
+          "8": 124,
+          "9": 106,
+          "10": 51,
+          "11": 33,
+          "12": 64,
+          "13": 99,
+          "14": 110,
+          "15": 216,
+          "16": 23,
+          "17": 173,
+          "18": 150,
+          "19": 120
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "4368f2f1ec2bfbab7c6a332140636ed817ad9678",
+    "file": "assets/4368f2f1ec2bfbab7c6a332140636ed817ad9678.png",
+    "ancestry": [
+      "Document",
+      "13 Motion & role assets — 25 imported",
+      "Canonical / 20 verified GIFs + five approved role illustrations",
+      "support"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "68:1430",
+    "name": "00-default-mascot",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 171,
+          "1": 175,
+          "2": 127,
+          "3": 38,
+          "4": 160,
+          "5": 196,
+          "6": 77,
+          "7": 42,
+          "8": 26,
+          "9": 83,
+          "10": 47,
+          "11": 239,
+          "12": 203,
+          "13": 120,
+          "14": 88,
+          "15": 101,
+          "16": 147,
+          "17": 169,
+          "18": 223,
+          "19": 144
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "abaf7f26a0c44d2a1a532fefcb78586593a9df90",
+    "file": "assets/abaf7f26a0c44d2a1a532fefcb78586593a9df90.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "00-default-mascot"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "68:1431",
+    "name": "01-user-customer",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 167,
+          "1": 34,
+          "2": 136,
+          "3": 134,
+          "4": 57,
+          "5": 0,
+          "6": 233,
+          "7": 144,
+          "8": 163,
+          "9": 59,
+          "10": 231,
+          "11": 254,
+          "12": 51,
+          "13": 54,
+          "14": 179,
+          "15": 16,
+          "16": 19,
+          "17": 71,
+          "18": 163,
+          "19": 205
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "a72288863900e990a33be7fe3336b3101347a3cd",
+    "file": "assets/a72288863900e990a33be7fe3336b3101347a3cd.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "01-user-customer"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1432",
+    "name": "02-student",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 4,
+          "1": 179,
+          "2": 101,
+          "3": 153,
+          "4": 196,
+          "5": 157,
+          "6": 12,
+          "7": 195,
+          "8": 35,
+          "9": 194,
+          "10": 45,
+          "11": 179,
+          "12": 140,
+          "13": 65,
+          "14": 25,
+          "15": 45,
+          "16": 180,
+          "17": 214,
+          "18": 151,
+          "19": 114
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "04b36599c49d0cc323c22db38c41192db4d69772",
+    "file": "assets/04b36599c49d0cc323c22db38c41192db4d69772.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "02-student"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1433",
+    "name": "03-vendor",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 247,
+          "1": 110,
+          "2": 61,
+          "3": 117,
+          "4": 53,
+          "5": 59,
+          "6": 71,
+          "7": 162,
+          "8": 176,
+          "9": 86,
+          "10": 156,
+          "11": 87,
+          "12": 109,
+          "13": 2,
+          "14": 49,
+          "15": 148,
+          "16": 72,
+          "17": 94,
+          "18": 221,
+          "19": 212
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "f76e3d75353b47a2b0569c576d023194485eddd4",
+    "file": "assets/f76e3d75353b47a2b0569c576d023194485eddd4.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "03-vendor"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1434",
+    "name": "04-admin",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 222,
+          "1": 196,
+          "2": 2,
+          "3": 195,
+          "4": 168,
+          "5": 27,
+          "6": 22,
+          "7": 213,
+          "8": 48,
+          "9": 149,
+          "10": 212,
+          "11": 105,
+          "12": 20,
+          "13": 243,
+          "14": 47,
+          "15": 149,
+          "16": 243,
+          "17": 201,
+          "18": 178,
+          "19": 44
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "dec402c3a81b16d53095d46914f32f95f3c9b22c",
+    "file": "assets/dec402c3a81b16d53095d46914f32f95f3c9b22c.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "04-admin"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "68:1435",
+    "name": "05-support",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 187,
+          "1": 64,
+          "2": 66,
+          "3": 182,
+          "4": 178,
+          "5": 123,
+          "6": 163,
+          "7": 212,
+          "8": 24,
+          "9": 147,
+          "10": 203,
+          "11": 37,
+          "12": 72,
+          "13": 21,
+          "14": 199,
+          "15": 141,
+          "16": 119,
+          "17": 91,
+          "18": 165,
+          "19": 67
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "bb4042b6b27ba3d41893cb254815c78d775ba543",
+    "file": "assets/bb4042b6b27ba3d41893cb254815c78d775ba543.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "05-support"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1436",
+    "name": "06-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 199,
+          "1": 158,
+          "2": 64,
+          "3": 140,
+          "4": 55,
+          "5": 23,
+          "6": 74,
+          "7": 215,
+          "8": 68,
+          "9": 53,
+          "10": 168,
+          "11": 204,
+          "12": 14,
+          "13": 18,
+          "14": 235,
+          "15": 83,
+          "16": 19,
+          "17": 210,
+          "18": 135,
+          "19": 47
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "c79e408c37174ad74435a8cc0e12eb5313d2872f",
+    "file": "assets/c79e408c37174ad74435a8cc0e12eb5313d2872f.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "06-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1437",
+    "name": "07-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 172,
+          "1": 28,
+          "2": 93,
+          "3": 38,
+          "4": 197,
+          "5": 110,
+          "6": 47,
+          "7": 101,
+          "8": 190,
+          "9": 233,
+          "10": 9,
+          "11": 206,
+          "12": 34,
+          "13": 147,
+          "14": 156,
+          "15": 51,
+          "16": 0,
+          "17": 1,
+          "18": 203,
+          "19": 193
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "ac1c5d26c56e2f65bee909ce22939c330001cbc1",
+    "file": "assets/ac1c5d26c56e2f65bee909ce22939c330001cbc1.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "07-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1438",
+    "name": "08-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 34,
+          "1": 148,
+          "2": 69,
+          "3": 141,
+          "4": 154,
+          "5": 164,
+          "6": 141,
+          "7": 144,
+          "8": 92,
+          "9": 2,
+          "10": 79,
+          "11": 91,
+          "12": 29,
+          "13": 164,
+          "14": 213,
+          "15": 41,
+          "16": 157,
+          "17": 86,
+          "18": 48,
+          "19": 252
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "2294458d9aa48d905c024f5b1da4d5299d5630fc",
+    "file": "assets/2294458d9aa48d905c024f5b1da4d5299d5630fc.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "08-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1439",
+    "name": "09-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 155,
+          "1": 235,
+          "2": 199,
+          "3": 32,
+          "4": 76,
+          "5": 241,
+          "6": 48,
+          "7": 122,
+          "8": 78,
+          "9": 180,
+          "10": 219,
+          "11": 75,
+          "12": 200,
+          "13": 9,
+          "14": 255,
+          "15": 112,
+          "16": 43,
+          "17": 230,
+          "18": 204,
+          "19": 8
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "9bebc7204cf1307a4eb4db4bc809ff702be6cc08",
+    "file": "assets/9bebc7204cf1307a4eb4db4bc809ff702be6cc08.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "09-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1440",
+    "name": "10-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 14,
+          "1": 169,
+          "2": 23,
+          "3": 30,
+          "4": 104,
+          "5": 109,
+          "6": 2,
+          "7": 245,
+          "8": 237,
+          "9": 141,
+          "10": 60,
+          "11": 180,
+          "12": 37,
+          "13": 15,
+          "14": 252,
+          "15": 31,
+          "16": 19,
+          "17": 8,
+          "18": 85,
+          "19": 173
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "0ea9171e686d02f5ed8d3cb4250ffc1f130855ad",
+    "file": "assets/0ea9171e686d02f5ed8d3cb4250ffc1f130855ad.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "10-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1441",
+    "name": "11-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 46,
+          "1": 186,
+          "2": 92,
+          "3": 214,
+          "4": 192,
+          "5": 51,
+          "6": 202,
+          "7": 183,
+          "8": 249,
+          "9": 191,
+          "10": 139,
+          "11": 250,
+          "12": 9,
+          "13": 179,
+          "14": 240,
+          "15": 162,
+          "16": 100,
+          "17": 102,
+          "18": 0,
+          "19": 133
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "2eba5cd6c033cab7f9bf8bfa09b3f0a264660085",
+    "file": "assets/2eba5cd6c033cab7f9bf8bfa09b3f0a264660085.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "11-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1442",
+    "name": "12-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 92,
+          "1": 174,
+          "2": 30,
+          "3": 214,
+          "4": 88,
+          "5": 35,
+          "6": 175,
+          "7": 222,
+          "8": 94,
+          "9": 245,
+          "10": 205,
+          "11": 202,
+          "12": 50,
+          "13": 86,
+          "14": 13,
+          "15": 235,
+          "16": 179,
+          "17": 170,
+          "18": 128,
+          "19": 8
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "5cae1ed65823afde5ef5cdca32560debb3aa8008",
+    "file": "assets/5cae1ed65823afde5ef5cdca32560debb3aa8008.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "12-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1443",
+    "name": "13-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 7,
+          "1": 128,
+          "2": 120,
+          "3": 97,
+          "4": 81,
+          "5": 140,
+          "6": 77,
+          "7": 234,
+          "8": 228,
+          "9": 55,
+          "10": 153,
+          "11": 12,
+          "12": 145,
+          "13": 82,
+          "14": 92,
+          "15": 131,
+          "16": 23,
+          "17": 85,
+          "18": 24,
+          "19": 106
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "07807861518c4deae437990c91525c831755186a",
+    "file": "assets/07807861518c4deae437990c91525c831755186a.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "13-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1444",
+    "name": "14-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 74,
+          "1": 227,
+          "2": 46,
+          "3": 51,
+          "4": 62,
+          "5": 65,
+          "6": 49,
+          "7": 100,
+          "8": 169,
+          "9": 233,
+          "10": 228,
+          "11": 72,
+          "12": 215,
+          "13": 8,
+          "14": 221,
+          "15": 240,
+          "16": 249,
+          "17": 212,
+          "18": 222,
+          "19": 119
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "4ae32e333e413164a9e9e448d708ddf0f9d4de77",
+    "file": "assets/4ae32e333e413164a9e9e448d708ddf0f9d4de77.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "14-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1445",
+    "name": "15-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 7,
+          "1": 61,
+          "2": 76,
+          "3": 126,
+          "4": 6,
+          "5": 94,
+          "6": 10,
+          "7": 200,
+          "8": 163,
+          "9": 107,
+          "10": 4,
+          "11": 193,
+          "12": 217,
+          "13": 147,
+          "14": 143,
+          "15": 112,
+          "16": 68,
+          "17": 118,
+          "18": 75,
+          "19": 97
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "073d4c7e065e0ac8a36b04c1d9938f7044764b61",
+    "file": "assets/073d4c7e065e0ac8a36b04c1d9938f7044764b61.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "15-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1446",
+    "name": "16-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 114,
+          "1": 84,
+          "2": 28,
+          "3": 80,
+          "4": 249,
+          "5": 225,
+          "6": 40,
+          "7": 38,
+          "8": 146,
+          "9": 197,
+          "10": 77,
+          "11": 97,
+          "12": 252,
+          "13": 27,
+          "14": 139,
+          "15": 86,
+          "16": 187,
+          "17": 211,
+          "18": 114,
+          "19": 96
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "72541c50f9e1282692c54d61fc1b8b56bbd37260",
+    "file": "assets/72541c50f9e1282692c54d61fc1b8b56bbd37260.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "16-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "68:1447",
+    "name": "17-avatar",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "68:1448",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 56,
+          "1": 116,
+          "2": 214,
+          "3": 122,
+          "4": 99,
+          "5": 3,
+          "6": 178,
+          "7": 236,
+          "8": 105,
+          "9": 175,
+          "10": 22,
+          "11": 41,
+          "12": 44,
+          "13": 48,
+          "14": 82,
+          "15": 198,
+          "16": 184,
+          "17": 83,
+          "18": 218,
+          "19": 23
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FILL",
+      "imageShouldColorManage": true,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "3874d67a6303b2ec69af16292c3052c6b853da17",
+    "file": "assets/3874d67a6303b2ec69af16292c3052c6b853da17.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 18 profile avatars",
+      "17-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:243",
+    "name": "Approved portrait / 00-default-mascot",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:242",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 171,
+          "1": 175,
+          "2": 127,
+          "3": 38,
+          "4": 160,
+          "5": 196,
+          "6": 77,
+          "7": 42,
+          "8": 26,
+          "9": 83,
+          "10": 47,
+          "11": 239,
+          "12": 203,
+          "13": 120,
+          "14": 88,
+          "15": 101,
+          "16": 147,
+          "17": 169,
+          "18": 223,
+          "19": 144
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "abaf7f26a0c44d2a1a532fefcb78586593a9df90",
+    "file": "assets/abaf7f26a0c44d2a1a532fefcb78586593a9df90.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=00-default-mascot",
+      "Approved portrait / 00-default-mascot"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "74:245",
+    "name": "Approved portrait / 01-user-customer",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:244",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 167,
+          "1": 34,
+          "2": 136,
+          "3": 134,
+          "4": 57,
+          "5": 0,
+          "6": 233,
+          "7": 144,
+          "8": 163,
+          "9": 59,
+          "10": 231,
+          "11": 254,
+          "12": 51,
+          "13": 54,
+          "14": 179,
+          "15": 16,
+          "16": 19,
+          "17": 71,
+          "18": 163,
+          "19": 205
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "a72288863900e990a33be7fe3336b3101347a3cd",
+    "file": "assets/a72288863900e990a33be7fe3336b3101347a3cd.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=01-user-customer",
+      "Approved portrait / 01-user-customer"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:247",
+    "name": "Approved portrait / 02-student",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:246",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 4,
+          "1": 179,
+          "2": 101,
+          "3": 153,
+          "4": 196,
+          "5": 157,
+          "6": 12,
+          "7": 195,
+          "8": 35,
+          "9": 194,
+          "10": 45,
+          "11": 179,
+          "12": 140,
+          "13": 65,
+          "14": 25,
+          "15": 45,
+          "16": 180,
+          "17": 214,
+          "18": 151,
+          "19": 114
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "04b36599c49d0cc323c22db38c41192db4d69772",
+    "file": "assets/04b36599c49d0cc323c22db38c41192db4d69772.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=02-student",
+      "Approved portrait / 02-student"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:249",
+    "name": "Approved portrait / 03-vendor",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:248",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 247,
+          "1": 110,
+          "2": 61,
+          "3": 117,
+          "4": 53,
+          "5": 59,
+          "6": 71,
+          "7": 162,
+          "8": 176,
+          "9": 86,
+          "10": 156,
+          "11": 87,
+          "12": 109,
+          "13": 2,
+          "14": 49,
+          "15": 148,
+          "16": 72,
+          "17": 94,
+          "18": 221,
+          "19": 212
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "f76e3d75353b47a2b0569c576d023194485eddd4",
+    "file": "assets/f76e3d75353b47a2b0569c576d023194485eddd4.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=03-vendor",
+      "Approved portrait / 03-vendor"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:251",
+    "name": "Approved portrait / 04-admin",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:250",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 222,
+          "1": 196,
+          "2": 2,
+          "3": 195,
+          "4": 168,
+          "5": 27,
+          "6": 22,
+          "7": 213,
+          "8": 48,
+          "9": 149,
+          "10": 212,
+          "11": 105,
+          "12": 20,
+          "13": 243,
+          "14": 47,
+          "15": 149,
+          "16": 243,
+          "17": 201,
+          "18": 178,
+          "19": 44
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "dec402c3a81b16d53095d46914f32f95f3c9b22c",
+    "file": "assets/dec402c3a81b16d53095d46914f32f95f3c9b22c.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=04-admin",
+      "Approved portrait / 04-admin"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "74:253",
+    "name": "Approved portrait / 05-support",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:252",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 187,
+          "1": 64,
+          "2": 66,
+          "3": 182,
+          "4": 178,
+          "5": 123,
+          "6": 163,
+          "7": 212,
+          "8": 24,
+          "9": 147,
+          "10": 203,
+          "11": 37,
+          "12": 72,
+          "13": 21,
+          "14": 199,
+          "15": 141,
+          "16": 119,
+          "17": 91,
+          "18": 165,
+          "19": 67
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "bb4042b6b27ba3d41893cb254815c78d775ba543",
+    "file": "assets/bb4042b6b27ba3d41893cb254815c78d775ba543.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=05-support",
+      "Approved portrait / 05-support"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:255",
+    "name": "Approved portrait / 06-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:254",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 199,
+          "1": 158,
+          "2": 64,
+          "3": 140,
+          "4": 55,
+          "5": 23,
+          "6": 74,
+          "7": 215,
+          "8": 68,
+          "9": 53,
+          "10": 168,
+          "11": 204,
+          "12": 14,
+          "13": 18,
+          "14": 235,
+          "15": 83,
+          "16": 19,
+          "17": 210,
+          "18": 135,
+          "19": 47
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "c79e408c37174ad74435a8cc0e12eb5313d2872f",
+    "file": "assets/c79e408c37174ad74435a8cc0e12eb5313d2872f.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=06-avatar",
+      "Approved portrait / 06-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:257",
+    "name": "Approved portrait / 07-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:256",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 172,
+          "1": 28,
+          "2": 93,
+          "3": 38,
+          "4": 197,
+          "5": 110,
+          "6": 47,
+          "7": 101,
+          "8": 190,
+          "9": 233,
+          "10": 9,
+          "11": 206,
+          "12": 34,
+          "13": 147,
+          "14": 156,
+          "15": 51,
+          "16": 0,
+          "17": 1,
+          "18": 203,
+          "19": 193
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "ac1c5d26c56e2f65bee909ce22939c330001cbc1",
+    "file": "assets/ac1c5d26c56e2f65bee909ce22939c330001cbc1.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=07-avatar",
+      "Approved portrait / 07-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:259",
+    "name": "Approved portrait / 08-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:258",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 34,
+          "1": 148,
+          "2": 69,
+          "3": 141,
+          "4": 154,
+          "5": 164,
+          "6": 141,
+          "7": 144,
+          "8": 92,
+          "9": 2,
+          "10": 79,
+          "11": 91,
+          "12": 29,
+          "13": 164,
+          "14": 213,
+          "15": 41,
+          "16": 157,
+          "17": 86,
+          "18": 48,
+          "19": 252
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "2294458d9aa48d905c024f5b1da4d5299d5630fc",
+    "file": "assets/2294458d9aa48d905c024f5b1da4d5299d5630fc.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=08-avatar",
+      "Approved portrait / 08-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:261",
+    "name": "Approved portrait / 09-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:260",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 155,
+          "1": 235,
+          "2": 199,
+          "3": 32,
+          "4": 76,
+          "5": 241,
+          "6": 48,
+          "7": 122,
+          "8": 78,
+          "9": 180,
+          "10": 219,
+          "11": 75,
+          "12": 200,
+          "13": 9,
+          "14": 255,
+          "15": 112,
+          "16": 43,
+          "17": 230,
+          "18": 204,
+          "19": 8
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "9bebc7204cf1307a4eb4db4bc809ff702be6cc08",
+    "file": "assets/9bebc7204cf1307a4eb4db4bc809ff702be6cc08.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=09-avatar",
+      "Approved portrait / 09-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:263",
+    "name": "Approved portrait / 10-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:262",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 14,
+          "1": 169,
+          "2": 23,
+          "3": 30,
+          "4": 104,
+          "5": 109,
+          "6": 2,
+          "7": 245,
+          "8": 237,
+          "9": 141,
+          "10": 60,
+          "11": 180,
+          "12": 37,
+          "13": 15,
+          "14": 252,
+          "15": 31,
+          "16": 19,
+          "17": 8,
+          "18": 85,
+          "19": 173
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "0ea9171e686d02f5ed8d3cb4250ffc1f130855ad",
+    "file": "assets/0ea9171e686d02f5ed8d3cb4250ffc1f130855ad.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=10-avatar",
+      "Approved portrait / 10-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:265",
+    "name": "Approved portrait / 11-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:264",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 46,
+          "1": 186,
+          "2": 92,
+          "3": 214,
+          "4": 192,
+          "5": 51,
+          "6": 202,
+          "7": 183,
+          "8": 249,
+          "9": 191,
+          "10": 139,
+          "11": 250,
+          "12": 9,
+          "13": 179,
+          "14": 240,
+          "15": 162,
+          "16": 100,
+          "17": 102,
+          "18": 0,
+          "19": 133
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "2eba5cd6c033cab7f9bf8bfa09b3f0a264660085",
+    "file": "assets/2eba5cd6c033cab7f9bf8bfa09b3f0a264660085.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=11-avatar",
+      "Approved portrait / 11-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:267",
+    "name": "Approved portrait / 12-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:266",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 92,
+          "1": 174,
+          "2": 30,
+          "3": 214,
+          "4": 88,
+          "5": 35,
+          "6": 175,
+          "7": 222,
+          "8": 94,
+          "9": 245,
+          "10": 205,
+          "11": 202,
+          "12": 50,
+          "13": 86,
+          "14": 13,
+          "15": 235,
+          "16": 179,
+          "17": 170,
+          "18": 128,
+          "19": 8
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "5cae1ed65823afde5ef5cdca32560debb3aa8008",
+    "file": "assets/5cae1ed65823afde5ef5cdca32560debb3aa8008.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=12-avatar",
+      "Approved portrait / 12-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:269",
+    "name": "Approved portrait / 13-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:268",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 7,
+          "1": 128,
+          "2": 120,
+          "3": 97,
+          "4": 81,
+          "5": 140,
+          "6": 77,
+          "7": 234,
+          "8": 228,
+          "9": 55,
+          "10": 153,
+          "11": 12,
+          "12": 145,
+          "13": 82,
+          "14": 92,
+          "15": 131,
+          "16": 23,
+          "17": 85,
+          "18": 24,
+          "19": 106
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "07807861518c4deae437990c91525c831755186a",
+    "file": "assets/07807861518c4deae437990c91525c831755186a.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=13-avatar",
+      "Approved portrait / 13-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:271",
+    "name": "Approved portrait / 14-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:270",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 74,
+          "1": 227,
+          "2": 46,
+          "3": 51,
+          "4": 62,
+          "5": 65,
+          "6": 49,
+          "7": 100,
+          "8": 169,
+          "9": 233,
+          "10": 228,
+          "11": 72,
+          "12": 215,
+          "13": 8,
+          "14": 221,
+          "15": 240,
+          "16": 249,
+          "17": 212,
+          "18": 222,
+          "19": 119
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "4ae32e333e413164a9e9e448d708ddf0f9d4de77",
+    "file": "assets/4ae32e333e413164a9e9e448d708ddf0f9d4de77.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=14-avatar",
+      "Approved portrait / 14-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:273",
+    "name": "Approved portrait / 15-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:272",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 7,
+          "1": 61,
+          "2": 76,
+          "3": 126,
+          "4": 6,
+          "5": 94,
+          "6": 10,
+          "7": 200,
+          "8": 163,
+          "9": 107,
+          "10": 4,
+          "11": 193,
+          "12": 217,
+          "13": 147,
+          "14": 143,
+          "15": 112,
+          "16": 68,
+          "17": 118,
+          "18": 75,
+          "19": 97
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "073d4c7e065e0ac8a36b04c1d9938f7044764b61",
+    "file": "assets/073d4c7e065e0ac8a36b04c1d9938f7044764b61.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=15-avatar",
+      "Approved portrait / 15-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:275",
+    "name": "Approved portrait / 16-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:274",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 114,
+          "1": 84,
+          "2": 28,
+          "3": 80,
+          "4": 249,
+          "5": 225,
+          "6": 40,
+          "7": 38,
+          "8": 146,
+          "9": 197,
+          "10": 77,
+          "11": 97,
+          "12": 252,
+          "13": 27,
+          "14": 139,
+          "15": 86,
+          "16": 187,
+          "17": 211,
+          "18": 114,
+          "19": 96
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "72541c50f9e1282692c54d61fc1b8b56bbd37260",
+    "file": "assets/72541c50f9e1282692c54d61fc1b8b56bbd37260.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=16-avatar",
+      "Approved portrait / 16-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:277",
+    "name": "Approved portrait / 17-avatar",
+    "size": {
+      "x": 80,
+      "y": 80
+    },
+    "parent": "74:276",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 56,
+          "1": 116,
+          "2": 214,
+          "3": 122,
+          "4": 99,
+          "5": 3,
+          "6": 178,
+          "7": 236,
+          "8": 105,
+          "9": 175,
+          "10": 22,
+          "11": 41,
+          "12": 44,
+          "13": 48,
+          "14": 82,
+          "15": 198,
+          "16": 184,
+          "17": 83,
+          "18": 218,
+          "19": 23
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "3874d67a6303b2ec69af16292c3052c6b853da17",
+    "file": "assets/3874d67a6303b2ec69af16292c3052c6b853da17.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Avatar",
+      "Portrait=17-avatar",
+      "Approved portrait / 17-avatar"
+    ],
+    "eligibleCustomerAvatar": true
+  },
+  {
+    "node": "74:280",
+    "name": "Individual approved artwork",
+    "size": {
+      "x": 240,
+      "y": 246
+    },
+    "parent": "74:279",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 212,
+          "1": 83,
+          "2": 37,
+          "3": 80,
+          "4": 182,
+          "5": 23,
+          "6": 149,
+          "7": 214,
+          "8": 139,
+          "9": 93,
+          "10": 146,
+          "11": 62,
+          "12": 135,
+          "13": 115,
+          "14": 181,
+          "15": 78,
+          "16": 97,
+          "17": 197,
+          "18": 41,
+          "19": 48
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 192,
+      "originalImageHeight": 192,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "d4532550b61795d68b5d923e8773b54e61c52930",
+    "file": "assets/d4532550b61795d68b5d923e8773b54e61c52930.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Artwork/Mascot",
+      "Individual approved artwork"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "74:282",
+    "name": "Individual approved artwork",
+    "size": {
+      "x": 240,
+      "y": 360
+    },
+    "parent": "74:281",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 122,
+          "1": 13,
+          "2": 94,
+          "3": 209,
+          "4": 1,
+          "5": 58,
+          "6": 48,
+          "7": 209,
+          "8": 106,
+          "9": 194,
+          "10": 143,
+          "11": 116,
+          "12": 206,
+          "13": 5,
+          "14": 38,
+          "15": 12,
+          "16": 35,
+          "17": 70,
+          "18": 6,
+          "19": 209
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "7a0d5ed1013a30d16ac28f74ce05260c234606d1",
+    "file": "assets/7a0d5ed1013a30d16ac28f74ce05260c234606d1.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Artwork/user-customer",
+      "Individual approved artwork"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "74:284",
+    "name": "Individual approved artwork",
+    "size": {
+      "x": 240,
+      "y": 360
+    },
+    "parent": "74:283",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 148,
+          "1": 233,
+          "2": 17,
+          "3": 33,
+          "4": 188,
+          "5": 51,
+          "6": 165,
+          "7": 193,
+          "8": 33,
+          "9": 230,
+          "10": 233,
+          "11": 241,
+          "12": 169,
+          "13": 147,
+          "14": 214,
+          "15": 84,
+          "16": 241,
+          "17": 213,
+          "18": 44,
+          "19": 227
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "94e91121bc33a5c121e6e9f1a993d654f1d52ce3",
+    "file": "assets/94e91121bc33a5c121e6e9f1a993d654f1d52ce3.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Artwork/student-v2",
+      "Individual approved artwork"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "74:286",
+    "name": "Individual approved artwork",
+    "size": {
+      "x": 240,
+      "y": 360
+    },
+    "parent": "74:285",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 70,
+          "1": 244,
+          "2": 142,
+          "3": 91,
+          "4": 114,
+          "5": 231,
+          "6": 152,
+          "7": 72,
+          "8": 83,
+          "9": 154,
+          "10": 28,
+          "11": 111,
+          "12": 80,
+          "13": 238,
+          "14": 223,
+          "15": 71,
+          "16": 187,
+          "17": 35,
+          "18": 22,
+          "19": 110
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "46f48e5b72e79848539a1c6f50eedf47bb23166e",
+    "file": "assets/46f48e5b72e79848539a1c6f50eedf47bb23166e.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Artwork/vendor",
+      "Individual approved artwork"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "74:288",
+    "name": "Individual approved artwork",
+    "size": {
+      "x": 240,
+      "y": 360
+    },
+    "parent": "74:287",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 56,
+          "1": 125,
+          "2": 38,
+          "3": 89,
+          "4": 135,
+          "5": 64,
+          "6": 227,
+          "7": 23,
+          "8": 149,
+          "9": 5,
+          "10": 208,
+          "11": 151,
+          "12": 217,
+          "13": 32,
+          "14": 43,
+          "15": 203,
+          "16": 137,
+          "17": 85,
+          "18": 107,
+          "19": 158
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "387d26598740e3179505d097d9202bcb89556b9e",
+    "file": "assets/387d26598740e3179505d097d9202bcb89556b9e.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Artwork/admin",
+      "Individual approved artwork"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "74:290",
+    "name": "Individual approved artwork",
+    "size": {
+      "x": 240,
+      "y": 360
+    },
+    "parent": "74:289",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 67,
+          "1": 104,
+          "2": 242,
+          "3": 241,
+          "4": 236,
+          "5": 43,
+          "6": 251,
+          "7": 171,
+          "8": 124,
+          "9": 106,
+          "10": 51,
+          "11": 33,
+          "12": 64,
+          "13": 99,
+          "14": 110,
+          "15": 216,
+          "16": 23,
+          "17": 173,
+          "18": 150,
+          "19": 120
+        },
+        "name": ""
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1024,
+      "originalImageHeight": 1536,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "4368f2f1ec2bfbab7c6a332140636ed817ad9678",
+    "file": "assets/4368f2f1ec2bfbab7c6a332140636ed817ad9678.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V2/Artwork/support",
+      "Individual approved artwork"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "226:8653",
+    "name": "mascot_plane_launch",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "229:14",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 88,
+          "1": 0,
+          "2": 122,
+          "3": 180,
+          "4": 60,
+          "5": 153,
+          "6": 4,
+          "7": 217,
+          "8": 226,
+          "9": 171,
+          "10": 251,
+          "11": 153,
+          "12": 16,
+          "13": 244,
+          "14": 164,
+          "15": 167,
+          "16": 43,
+          "17": 84,
+          "18": 242,
+          "19": 191
+        },
+        "name": "mascot_plane_launch"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "58007ab43c9904d9e2abfb9910f4a4a72b54f2bf",
+    "file": "assets/58007ab43c9904d9e2abfb9910f4a4a72b54f2bf.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 7 approved action illustrations · not profile choices",
+      "Illustration row 0",
+      "mascot_plane_launch",
+      "mascot_plane_launch"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "226:8654",
+    "name": "customer_pdf_image_compact",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "229:16",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 109,
+          "1": 33,
+          "2": 34,
+          "3": 61,
+          "4": 190,
+          "5": 193,
+          "6": 105,
+          "7": 105,
+          "8": 11,
+          "9": 249,
+          "10": 116,
+          "11": 136,
+          "12": 227,
+          "13": 127,
+          "14": 123,
+          "15": 183,
+          "16": 72,
+          "17": 123,
+          "18": 237,
+          "19": 246
+        },
+        "name": "customer_pdf_image_compact"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1312,
+      "originalImageHeight": 1199,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "6d21223dbec169690bf97488e37f7bb7487bedf6",
+    "file": "assets/6d21223dbec169690bf97488e37f7bb7487bedf6.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 7 approved action illustrations · not profile choices",
+      "Illustration row 0",
+      "customer_pdf_image_compact",
+      "customer_pdf_image_compact"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "226:8655",
+    "name": "customer_pdf_image",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "229:18",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 89,
+          "1": 254,
+          "2": 146,
+          "3": 110,
+          "4": 234,
+          "5": 251,
+          "6": 27,
+          "7": 11,
+          "8": 211,
+          "9": 97,
+          "10": 16,
+          "11": 239,
+          "12": 253,
+          "13": 87,
+          "14": 199,
+          "15": 161,
+          "16": 140,
+          "17": 61,
+          "18": 234,
+          "19": 177
+        },
+        "name": "customer_pdf_image"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1312,
+      "originalImageHeight": 1199,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "59fe926eeafb1b0bd36110effd57c7a18c3deab1",
+    "file": "assets/59fe926eeafb1b0bd36110effd57c7a18c3deab1.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 7 approved action illustrations · not profile choices",
+      "Illustration row 0",
+      "customer_pdf_image",
+      "customer_pdf_image"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "226:8656",
+    "name": "login_customer_mascot",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "229:20",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 112,
+          "1": 93,
+          "2": 45,
+          "3": 187,
+          "4": 22,
+          "5": 253,
+          "6": 54,
+          "7": 76,
+          "8": 0,
+          "9": 77,
+          "10": 133,
+          "11": 75,
+          "12": 18,
+          "13": 128,
+          "14": 207,
+          "15": 251,
+          "16": 45,
+          "17": 24,
+          "18": 36,
+          "19": 238
+        },
+        "name": "login_customer_mascot"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "705d2dbb16fd364c004d854b1280cffb2d1824ee",
+    "file": "assets/705d2dbb16fd364c004d854b1280cffb2d1824ee.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 7 approved action illustrations · not profile choices",
+      "Illustration row 0",
+      "login_customer_mascot",
+      "login_customer_mascot"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "226:8657",
+    "name": "mascot_nearby_search",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "229:23",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 115,
+          "1": 177,
+          "2": 227,
+          "3": 116,
+          "4": 177,
+          "5": 225,
+          "6": 97,
+          "7": 5,
+          "8": 237,
+          "9": 81,
+          "10": 29,
+          "11": 39,
+          "12": 4,
+          "13": 17,
+          "14": 118,
+          "15": 166,
+          "16": 121,
+          "17": 46,
+          "18": 245,
+          "19": 26
+        },
+        "name": "mascot_nearby_search"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1240,
+      "originalImageHeight": 1269,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "73b1e374b1e16105ed511d27041176a6792ef51a",
+    "file": "assets/73b1e374b1e16105ed511d27041176a6792ef51a.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 7 approved action illustrations · not profile choices",
+      "Illustration row 1",
+      "mascot_nearby_search",
+      "mascot_nearby_search"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "226:8658",
+    "name": "otp_mascot_folding_plane",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "229:25",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 235,
+          "1": 144,
+          "2": 227,
+          "3": 159,
+          "4": 28,
+          "5": 20,
+          "6": 77,
+          "7": 188,
+          "8": 203,
+          "9": 31,
+          "10": 10,
+          "11": 70,
+          "12": 239,
+          "13": 96,
+          "14": 136,
+          "15": 61,
+          "16": 92,
+          "17": 103,
+          "18": 57,
+          "19": 124
+        },
+        "name": "otp_mascot_folding_plane"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1240,
+      "originalImageHeight": 1269,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "eb90e39f1c144dbccb1f0a46ef60883d5c67397c",
+    "file": "assets/eb90e39f1c144dbccb1f0a46ef60883d5c67397c.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 7 approved action illustrations · not profile choices",
+      "Illustration row 1",
+      "otp_mascot_folding_plane",
+      "otp_mascot_folding_plane"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "226:8659",
+    "name": "vendor_ready",
+    "size": {
+      "x": 200,
+      "y": 200
+    },
+    "parent": "229:27",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 232,
+          "1": 240,
+          "2": 175,
+          "3": 186,
+          "4": 41,
+          "5": 18,
+          "6": 87,
+          "7": 162,
+          "8": 213,
+          "9": 1,
+          "10": 82,
+          "11": 46,
+          "12": 37,
+          "13": 20,
+          "14": 122,
+          "15": 249,
+          "16": 241,
+          "17": 29,
+          "18": 234,
+          "19": 194
+        },
+        "name": "vendor_ready"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 0.5,
+      "originalImageWidth": 1312,
+      "originalImageHeight": 1199,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "e8f0afba291257a2d501522e25147af9f11deac2",
+    "file": "assets/e8f0afba291257a2d501522e25147af9f11deac2.png",
+    "ancestry": [
+      "Document",
+      "15 Avatars & approved illustrations",
+      "Canonical / 7 approved action illustrations · not profile choices",
+      "Illustration row 1",
+      "vendor_ready",
+      "vendor_ready"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "231:511",
+    "name": "Individual approved artwork / mascot_plane_launch",
+    "size": {
+      "x": 160,
+      "y": 160
+    },
+    "parent": "231:510",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 88,
+          "1": 0,
+          "2": 122,
+          "3": 180,
+          "4": 60,
+          "5": 153,
+          "6": 4,
+          "7": 217,
+          "8": 226,
+          "9": 171,
+          "10": 251,
+          "11": 153,
+          "12": 16,
+          "13": 244,
+          "14": 164,
+          "15": 167,
+          "16": 43,
+          "17": 84,
+          "18": 242,
+          "19": 191
+        },
+        "name": "mascot_plane_launch"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "58007ab43c9904d9e2abfb9910f4a4a72b54f2bf",
+    "file": "assets/58007ab43c9904d9e2abfb9910f4a4a72b54f2bf.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V3/Action artwork",
+      "Scene=mascot_plane_launch",
+      "Individual approved artwork / mascot_plane_launch"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "231:513",
+    "name": "Individual approved artwork / customer_pdf_image_compact",
+    "size": {
+      "x": 160,
+      "y": 160
+    },
+    "parent": "231:512",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 109,
+          "1": 33,
+          "2": 34,
+          "3": 61,
+          "4": 190,
+          "5": 193,
+          "6": 105,
+          "7": 105,
+          "8": 11,
+          "9": 249,
+          "10": 116,
+          "11": 136,
+          "12": 227,
+          "13": 127,
+          "14": 123,
+          "15": 183,
+          "16": 72,
+          "17": 123,
+          "18": 237,
+          "19": 246
+        },
+        "name": "customer_pdf_image_compact"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1312,
+      "originalImageHeight": 1199,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "6d21223dbec169690bf97488e37f7bb7487bedf6",
+    "file": "assets/6d21223dbec169690bf97488e37f7bb7487bedf6.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V3/Action artwork",
+      "Scene=customer_pdf_image_compact",
+      "Individual approved artwork / customer_pdf_image_compact"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "231:515",
+    "name": "Individual approved artwork / customer_pdf_image",
+    "size": {
+      "x": 160,
+      "y": 160
+    },
+    "parent": "231:514",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 89,
+          "1": 254,
+          "2": 146,
+          "3": 110,
+          "4": 234,
+          "5": 251,
+          "6": 27,
+          "7": 11,
+          "8": 211,
+          "9": 97,
+          "10": 16,
+          "11": 239,
+          "12": 253,
+          "13": 87,
+          "14": 199,
+          "15": 161,
+          "16": 140,
+          "17": 61,
+          "18": 234,
+          "19": 177
+        },
+        "name": "customer_pdf_image"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1312,
+      "originalImageHeight": 1199,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "59fe926eeafb1b0bd36110effd57c7a18c3deab1",
+    "file": "assets/59fe926eeafb1b0bd36110effd57c7a18c3deab1.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V3/Action artwork",
+      "Scene=customer_pdf_image",
+      "Individual approved artwork / customer_pdf_image"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "231:517",
+    "name": "Individual approved artwork / login_customer_mascot",
+    "size": {
+      "x": 160,
+      "y": 160
+    },
+    "parent": "231:516",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 112,
+          "1": 93,
+          "2": 45,
+          "3": 187,
+          "4": 22,
+          "5": 253,
+          "6": 54,
+          "7": 76,
+          "8": 0,
+          "9": 77,
+          "10": 133,
+          "11": 75,
+          "12": 18,
+          "13": 128,
+          "14": 207,
+          "15": 251,
+          "16": 45,
+          "17": 24,
+          "18": 36,
+          "19": 238
+        },
+        "name": "login_customer_mascot"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1254,
+      "originalImageHeight": 1254,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "705d2dbb16fd364c004d854b1280cffb2d1824ee",
+    "file": "assets/705d2dbb16fd364c004d854b1280cffb2d1824ee.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V3/Action artwork",
+      "Scene=login_customer_mascot",
+      "Individual approved artwork / login_customer_mascot"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "231:519",
+    "name": "Individual approved artwork / mascot_nearby_search",
+    "size": {
+      "x": 160,
+      "y": 160
+    },
+    "parent": "231:518",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 115,
+          "1": 177,
+          "2": 227,
+          "3": 116,
+          "4": 177,
+          "5": 225,
+          "6": 97,
+          "7": 5,
+          "8": 237,
+          "9": 81,
+          "10": 29,
+          "11": 39,
+          "12": 4,
+          "13": 17,
+          "14": 118,
+          "15": 166,
+          "16": 121,
+          "17": 46,
+          "18": 245,
+          "19": 26
+        },
+        "name": "mascot_nearby_search"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1240,
+      "originalImageHeight": 1269,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "73b1e374b1e16105ed511d27041176a6792ef51a",
+    "file": "assets/73b1e374b1e16105ed511d27041176a6792ef51a.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V3/Action artwork",
+      "Scene=mascot_nearby_search",
+      "Individual approved artwork / mascot_nearby_search"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "231:521",
+    "name": "Individual approved artwork / otp_mascot_folding_plane",
+    "size": {
+      "x": 160,
+      "y": 160
+    },
+    "parent": "231:520",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 235,
+          "1": 144,
+          "2": 227,
+          "3": 159,
+          "4": 28,
+          "5": 20,
+          "6": 77,
+          "7": 188,
+          "8": 203,
+          "9": 31,
+          "10": 10,
+          "11": 70,
+          "12": 239,
+          "13": 96,
+          "14": 136,
+          "15": 61,
+          "16": 92,
+          "17": 103,
+          "18": 57,
+          "19": 124
+        },
+        "name": "otp_mascot_folding_plane"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1240,
+      "originalImageHeight": 1269,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "eb90e39f1c144dbccb1f0a46ef60883d5c67397c",
+    "file": "assets/eb90e39f1c144dbccb1f0a46ef60883d5c67397c.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V3/Action artwork",
+      "Scene=otp_mascot_folding_plane",
+      "Individual approved artwork / otp_mascot_folding_plane"
+    ],
+    "eligibleCustomerAvatar": false
+  },
+  {
+    "node": "231:523",
+    "name": "Individual approved artwork / vendor_ready",
+    "size": {
+      "x": 160,
+      "y": 160
+    },
+    "parent": "231:522",
+    "paint": {
+      "type": "IMAGE",
+      "opacity": 1,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 0,
+        "m10": 0,
+        "m11": 1,
+        "m12": 0
+      },
+      "image": {
+        "hash": {
+          "0": 232,
+          "1": 240,
+          "2": 175,
+          "3": 186,
+          "4": 41,
+          "5": 18,
+          "6": 87,
+          "7": 162,
+          "8": 213,
+          "9": 1,
+          "10": 82,
+          "11": 46,
+          "12": 37,
+          "13": 20,
+          "14": 122,
+          "15": 249,
+          "16": 241,
+          "17": 29,
+          "18": 234,
+          "19": 194
+        },
+        "name": "vendor_ready"
+      },
+      "animationFrame": 0,
+      "imageScaleMode": "FIT",
+      "imageShouldColorManage": false,
+      "rotation": 0,
+      "scale": 1,
+      "originalImageWidth": 1312,
+      "originalImageHeight": 1199,
+      "thumbHash": {},
+      "altText": ""
+    },
+    "hash": "e8f0afba291257a2d501522e25147af9f11deac2",
+    "file": "assets/e8f0afba291257a2d501522e25147af9f11deac2.png",
+    "ancestry": [
+      "Document",
+      "02 Components",
+      "Printlly/V3/Action artwork",
+      "Scene=vendor_ready",
+      "Individual approved artwork / vendor_ready"
+    ],
+    "eligibleCustomerAvatar": false
+  }
+]

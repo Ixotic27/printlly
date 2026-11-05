@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="460" viewBox="0 0 360 460" fill="none">
+  <title>Pickup customer — Paper in Motion</title>
+  <desc>An original walking customer holding separate printed pages and a blank pickup ticket. Editable named vector groups on a transparent canvas.</desc>
+  <g id="PickupCustomer" stroke="#2C1838" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <g id="legs">
+      <path id="leg-rear" d="M151 247 C153 275 166 298 157 317 C148 337 125 354 108 377 L91 367 C103 338 121 317 131 302 C126 287 120 267 125 247 Z" fill="#EDE4F5"/>
+      <path id="leg-front" d="M158 248 C177 244 195 245 204 258 C212 280 205 297 220 321 C234 344 254 363 266 383 L246 395 C223 373 204 351 187 333 C169 315 161 295 152 276 Z" fill="#EDE4F5"/>
+      <path id="rear-trouser-crease" d="M141 271 C148 285 152 298 144 314"/>
+      <path id="front-trouser-crease" d="M180 268 C174 287 180 307 194 322"/>
+      <path id="rear-cuff" d="M103 363 L123 375 L115 386 L94 375 Z" fill="#6D35B1"/>
+      <path id="front-cuff" d="M243 379 L263 368 L272 383 L251 397 Z" fill="#6D35B1"/>
+    </g>
+    <g id="shoes">
+      <path id="rear-shoe" d="M95 373 C99 380 110 384 116 383 L121 393 C111 403 103 409 86 411 L65 413 C59 412 60 406 65 402 C72 397 76 395 81 386 L89 373 Z" fill="#FF9E79"/>
+      <path id="rear-sole" d="M64 405 C82 404 99 399 116 390 L121 397 C103 408 85 416 64 416 C59 415 58 410 64 405 Z" fill="#FFF7E8"/>
+      <path id="front-shoe" d="M253 389 L269 380 C275 386 278 391 283 393 C290 397 302 397 307 405 C310 410 307 414 300 414 L270 413 C260 413 254 409 249 403 Z" fill="#FF9E79"/>
+      <path id="front-sole" d="M252 403 C266 409 286 408 305 407 L309 413 C308 418 295 419 283 418 L267 417 C259 416 254 413 249 410 Z" fill="#FFF7E8"/>
+      <path id="rear-laces" d="M90 392 L99 391 M94 387 L103 386"/>
+      <path id="front-laces" d="M274 397 L283 394 M279 401 L288 398"/>
+    </g>
+    <g id="arms">
+      <path id="arm-carrying-pages" d="M141 154 C126 152 116 172 109 190 C103 208 102 221 111 230 C120 239 139 237 150 227 L170 209 L159 195 L137 211 C130 215 125 215 123 211 C123 206 127 197 131 190 L151 167 Z" fill="#FF9E79"/>
+      <path id="arm-ticket" d="M204 151 C215 151 221 165 233 177 C238 182 244 183 251 177 L271 156 L284 169 L266 195 C257 207 241 210 227 201 C213 192 201 181 194 168 Z" fill="#FF9E79"/>
+      <path id="elbow-detail" d="M231 192 C237 197 243 197 248 193"/>
+    </g>
+    <g id="face">
+      <path id="neck" d="M166 111 L164 135 C172 148 190 150 197 135 L187 110 Z" fill="#FF9E79"/>
+      <path id="face-shape" d="M160 65 C177 53 198 61 205 78 C208 85 206 91 212 97 C215 100 212 104 207 105 C207 116 200 125 190 126 C175 127 163 117 160 102 C149 104 145 99 146 92 C146 86 152 83 158 86 Z" fill="#FFF7E8"/>
+      <path id="ear-detail" d="M152 91 C155 88 160 91 160 96"/>
+      <path id="eyebrow" d="M191 82 C195 79 199 80 201 82"/>
+      <path id="eye" d="M198 89 C198 91 197 92 196 91 C195 90 196 88 197 88 Z" fill="#2C1838" stroke-width="1.5"/>
+      <path id="smile" d="M190 108 C194 113 200 112 203 108"/>
+      <path id="cheek" d="M185 99 C190 96 192 99 189 102 C186 105 182 103 185 99 Z" fill="#FF9E79" stroke="none"/>
+    </g>
+    <g id="hair">
+      <path id="hair-main" d="M153 85 C144 82 143 70 147 64 C145 56 151 48 159 47 C166 38 177 41 182 44 C191 39 201 44 204 51 C215 55 216 67 211 74 C207 80 204 82 200 79 C195 71 188 70 180 73 C177 80 168 82 163 80 L160 91 C157 90 157 86 153 85 Z" fill="#2C1838"/>
+      <path id="hair-curl" d="M162 56 C161 50 168 48 172 53 M183 52 C188 47 195 50 195 56" stroke="#FFF7E8" stroke-width="2.4"/>
+    </g>
+    <g id="torso">
+      <path id="shirt" d="M164 133 C152 136 139 141 132 153 L143 178 L134 218 C130 233 126 244 128 253 C151 266 181 266 209 253 C208 235 207 219 204 204 L206 176 L218 169 L208 147 C204 139 194 136 190 134 C183 145 171 143 164 133 Z" fill="#D8F36A"/>
+      <path id="collar" d="M162 134 C168 148 184 153 193 137 L199 141 C190 160 169 159 155 138 Z" fill="#FFF7E8"/>
+      <path id="sleeve-left" d="M134 156 L148 179 M201 179 L215 172"/>
+      <path id="shirt-fold" d="M148 230 C161 238 180 239 195 234"/>
+      <g id="shirt-pattern" fill="#2C1838" stroke="none">
+        <path d="M165 169 C168 165 172 170 170 175 C168 179 162 175 165 169 Z"/>
+        <path d="M182 184 C187 180 191 184 187 188 C183 192 178 188 182 184 Z"/>
+        <path d="M153 197 C155 192 160 195 160 200 C160 205 152 204 153 197 Z"/>
+        <path d="M193 213 C197 209 201 214 198 218 C195 223 189 218 193 213 Z"/>
+        <path d="M171 217 C177 215 179 220 175 224 C171 228 166 221 171 217 Z"/>
+        <path d="M144 241 C148 237 153 241 151 245 C150 250 140 245 144 241 Z"/>
+        <path d="M181 248 C183 242 188 242 190 247 C191 252 179 254 181 248 Z"/>
+      </g>
+    </g>
+    <g id="papers">
+      <path id="page-rear" d="M99 179 L143 164 L170 218 L125 235 Z" fill="#EDE4F5"/>
+      <path id="page-front" d="M103 185 L147 170 L174 224 L130 241 Z" fill="#FFFFFF"/>
+      <path id="page-header" d="M117 187 L140 179 L145 189 L121 197 Z" fill="#6D35B1" stroke="none"/>
+      <path id="page-line-one" d="M124 204 L147 196 M128 213 L151 205 M132 222 L149 217" stroke-width="2.4"/>
+    </g>
+    <g id="ticket">
+      <path id="pickup-ticket" d="M266 140 L312 131 L316 146 C310 149 311 156 319 157 L322 173 L276 183 L273 168 C280 165 278 158 271 157 Z" fill="#D8F36A"/>
+      <path id="ticket-perforation" d="M306 136 L312 169" stroke-width="2.2" stroke-dasharray="2 5"/>
+    </g>
+    <g id="hands">
+      <path id="hand-carrying-pages" d="M133 218 C139 215 145 209 151 207 C155 205 158 206 158 209 C156 212 153 213 151 215 C157 214 164 213 166 216 C169 220 164 223 160 223 C167 221 170 224 168 227 C166 230 161 230 154 231 C145 234 138 235 133 229 Z" fill="#FF9E79"/>
+      <path id="hand-ticket" d="M269 160 C270 155 269 152 272 150 C276 149 277 154 277 158 C280 151 282 147 285 148 C289 151 284 158 285 161 C289 159 292 159 293 162 C293 166 287 169 284 173 C279 180 272 178 267 170 Z" fill="#FF9E79"/>
+      <path id="page-finger-detail" d="M149 222 L160 220 M150 227 L161 225" stroke-width="2.2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="460" viewBox="0 0 360 460" fill="none">
+  <title>Printlly — shopkeeper handing over a fresh stack of prints</title>
+  <desc>Independent original vector character with continuous limbs, a plum apron and an inviting three-quarter pose. Transparent background.</desc>
+  <g id="Shopkeeper" stroke="#2C1838" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <g id="legs">
+      <path id="trousers" d="M127 273 C148 266 183 268 205 280 L211 327 C211 347 220 365 226 389 L231 417 L210 424 C199 401 186 376 181 352 L165 320 C165 350 158 380 157 414 L137 421 C128 394 130 372 133 347 L124 303 Z" fill="#EDE4F5"/>
+      <path id="trouser-crease-left" d="M154 330 C148 354 146 378 146 396"/>
+      <path id="trouser-crease-right" d="M184 321 C188 339 192 349 201 365"/>
+      <path id="left-ankle" d="M137 411 L157 408 L158 427 L138 430 Z" fill="#FF9E79"/>
+      <path id="right-ankle" d="M210 410 L230 410 L237 428 L216 434 Z" fill="#FF9E79"/>
+    </g>
+    <g id="shoes">
+      <path id="left-shoe" d="M136 421 C144 426 151 426 158 420 C163 426 163 433 160 441 L107 441 C102 437 104 431 111 428 Z" fill="#2C1838"/>
+      <path id="left-sole" d="M107 440 L160 440" stroke="#FFF7E8" stroke-width="2.5"/>
+      <path id="left-vamp" d="M126 427 L138 433" stroke="#FFF7E8" stroke-width="2.5"/>
+      <path id="right-shoe" d="M216 421 C222 427 230 427 237 421 L257 426 C268 428 273 434 270 442 L217 442 C211 439 211 428 216 421 Z" fill="#2C1838"/>
+      <path id="right-sole" d="M217 440 L269 440" stroke="#FFF7E8" stroke-width="2.5"/>
+      <path id="right-vamp" d="M240 429 L248 435" stroke="#FFF7E8" stroke-width="2.5"/>
+    </g>
+    <g id="arms-back">
+      <path id="left-arm" d="M111 154 C100 157 90 176 85 191 C82 202 94 219 109 235 L135 237 L143 219 L114 215 L104 191 L125 166 Z" fill="#FF9E79"/>
+      <path id="left-sleeve" d="M130 134 C115 134 103 141 97 155 L88 176 C96 183 106 187 117 185 L139 154 Z" fill="#FFF7E8"/>
+      <path id="left-sleeve-roll" d="M91 168 C98 174 108 180 121 180 L117 191 C106 193 94 186 85 179 Z" fill="#EDE4F5"/>
+      <path id="left-elbow-fold" d="M90 198 C95 195 100 196 104 199" stroke-width="2.5"/>
+    </g>
+    <g id="torso">
+      <path id="neck" d="M151 104 L151 134 C153 145 179 146 185 131 L177 107 Z" fill="#FF9E79"/>
+      <path id="neck-shadow" d="M151 111 C160 122 172 121 180 115 L183 126 C171 131 160 126 151 119 Z" fill="#2C1838" stroke="none"/>
+      <path id="shirt" d="M149 127 C136 128 124 131 114 140 C122 169 127 195 124 222 L125 279 C147 291 184 290 206 275 L206 192 L221 156 C210 142 197 133 182 129 C173 141 161 141 149 127 Z" fill="#FFF7E8"/>
+      <path id="collar-left" d="M149 127 L161 145 L145 153 L135 133 Z" fill="#FFF7E8"/>
+      <path id="collar-right" d="M182 129 L175 145 L189 150 L197 135 Z" fill="#FFF7E8"/>
+    </g>
+    <g id="arms-front">
+      <path id="right-arm" d="M218 157 C235 162 246 176 248 191 C253 190 267 178 281 164 L295 174 C279 195 263 210 244 214 C229 215 224 202 218 190 L207 174 Z" fill="#FF9E79"/>
+      <path id="right-sleeve" d="M205 141 C221 143 235 153 241 168 L247 185 C237 191 226 193 216 190 L201 168 Z" fill="#FFF7E8"/>
+      <path id="right-sleeve-roll" d="M214 180 C226 184 236 181 243 178 L249 191 C239 198 229 199 219 193 Z" fill="#EDE4F5"/>
+      <path id="right-elbow-fold" d="M239 202 C241 199 245 198 249 199" stroke-width="2.5"/>
+    </g>
+    <g id="apron">
+      <path id="left-strap" d="M142 134 L154 140 L145 172 L134 168 Z" fill="#6D35B1"/>
+      <path id="right-strap" d="M181 138 L193 136 L205 170 L194 176 Z" fill="#6D35B1"/>
+      <path id="apron-body" d="M140 167 C159 173 180 172 196 166 L198 229 C211 249 218 278 215 309 C191 323 150 322 121 308 C120 280 128 250 138 229 Z" fill="#6D35B1"/>
+      <path id="apron-waist-seam" d="M138 229 C157 233 180 231 198 229" stroke="#FFF7E8" stroke-width="2.5"/>
+      <path id="apron-pocket" d="M148 246 C164 249 180 248 192 245 L189 269 C178 278 159 277 149 268 Z" fill="#EDE4F5"/>
+      <path id="pocket-print" d="M162 246 L161 221 L179 221 L182 247" fill="#FFF7E8"/>
+      <path id="pocket-print-line" d="M167 229 L175 229 M167 235 L175 235" stroke-width="2"/>
+      <path id="apron-hem" d="M134 301 C154 307 181 309 204 302" stroke="#FFF7E8" stroke-width="2.5"/>
+      <path id="apron-fold" d="M137 253 C133 265 131 275 131 285" stroke="#FFF7E8" stroke-width="2.5"/>
+    </g>
+    <g id="hands">
+      <path id="left-hand" d="M119 219 C128 219 132 215 139 212 L145 207 C149 205 152 209 149 213 L146 217 L156 216 C161 215 163 219 159 222 L151 225 L157 225 C163 225 163 229 159 231 L149 234 C144 240 135 241 125 237 L115 232 Z" fill="#FF9E79"/>
+      <path id="left-finger-fold" d="M145 225 L140 228 M151 234 L145 234" stroke-width="2"/>
+      <path id="right-hand" d="M279 166 C282 158 285 151 290 149 L295 145 C299 142 302 146 299 150 L296 155 C308 149 314 148 318 151 C321 154 318 157 313 158 L308 160 C317 157 322 158 322 162 C321 165 314 167 309 169 C303 177 293 182 286 177 Z" fill="#FF9E79"/>
+    </g>
+    <g id="papers">
+      <path id="bottom-print" d="M260 142 L310 130 L334 146 L284 162 Z" fill="#EDE4F5"/>
+      <path id="middle-print" d="M259 134 L309 121 L334 138 L284 155 Z" fill="#FFF7E8"/>
+      <path id="top-print" d="M259 126 L308 113 L334 131 L285 147 Z" fill="#FFFFFF"/>
+      <path id="paper-image" d="M274 126 L291 122 L302 129 L285 134 Z" fill="#D8F36A" stroke-width="2"/>
+      <path id="paper-type-lines" d="M302 120 L315 128 M295 136 L317 129" stroke-width="2"/>
+    </g>
+    <g id="supporting-fingers">
+      <path id="thumb-on-paper" d="M289 163 C291 158 291 153 287 151 C283 150 281 154 282 159 L281 166" fill="#FF9E79"/>
+      <path id="finger-under-paper" d="M304 168 C310 168 315 166 318 163" stroke-width="2.5"/>
+    </g>
+    <g id="face">
+      <path id="face-shape" d="M143 69 C143 50 157 41 176 44 C198 44 207 57 206 75 L205 88 L213 94 C215 97 212 100 205 101 L203 112 C201 126 180 133 164 126 C150 121 143 108 140 94 Z" fill="#FF9E79"/>
+      <path id="ear" d="M143 83 C129 76 126 88 130 99 C132 106 140 109 146 103" fill="#FF9E79"/>
+      <path id="ear-detail" d="M136 89 C141 89 142 95 138 97" stroke-width="2.5"/>
+      <path id="nose-line" d="M196 83 L194 95 L201 96" stroke-width="2.5"/>
+      <path id="left-brow" d="M166 77 C170 73 175 74 178 77" stroke-width="3"/>
+      <path id="right-brow" d="M192 76 C196 74 200 75 202 78" stroke-width="3"/>
+      <path id="left-eye" d="M173 85 L173 89" stroke-width="4"/>
+      <path id="right-eye" d="M198 84 L198 88" stroke-width="4"/>
+      <path id="smile" d="M178 108 C184 114 193 114 198 108" stroke-width="2.5"/>
+      <path id="cheek" d="M154 99 C158 102 162 102 165 100" stroke-width="2"/>
+    </g>
+    <g id="hair">
+      <path id="hair-mass" d="M145 91 C138 89 134 77 133 67 C127 61 130 52 139 51 C136 39 147 32 157 36 C159 23 172 23 179 32 C185 20 198 25 199 36 C212 33 220 44 213 54 C223 61 215 74 204 70 C197 68 195 59 190 56 C183 64 170 65 160 62 C158 72 148 75 145 91 Z" fill="#2C1838"/>
+      <path id="hair-highlight" d="M150 48 C157 44 165 45 171 47 M182 42 C189 40 196 43 198 48" stroke="#FFF7E8" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

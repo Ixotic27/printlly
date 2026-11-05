@@ -1,0 +1,360 @@
+{
+  "runId": "printlly-redesign-2026-10-11",
+  "updatedDate": "2026-10-11",
+  "fileKey": "GLk1d6IiNCnsEFIEIVogwm",
+  "url": "https://www.figma.com/design/GLk1d6IiNCnsEFIEIVogwm",
+  "lastVerifiedFileName": "Printlly — Paper in Motion · Product Redesign",
+  "currentDirection": "Paper in Motion",
+  "directionStatus": "Paper in Motion with individual editable vector illustrations. User-reported broken artwork was replaced by dedicated per-asset subagents; original component master IDs preserved.",
+  "accountVerifiedInBrowser": "ishantsinghbisht.24011232@gehu.ac.in",
+  "accessMethod": "Native Figma Agents and editor UI in Brave through user-authorized browser fallback",
+  "connectorCallable": false,
+  "status": "Editable v2 illustrations exist and render intact; user illustration-quality concerns remain under review. Sixteen prototype links verified; wider Figma request incomplete",
+  "implementationStarted": false,
+  "backendModified": false,
+  "completedSteps": [
+    "Account and Design file verified",
+    "Pages 00–08 observed",
+    "Seven editable workflow boards observed; customer workflow auto-layout inspected",
+    "Manrope/Inter availability verified",
+    "Representative foundation tokens, button variants and instances inspected",
+    "Website/mobile/partner/admin screens created and organized by native agent",
+    "Native agent completed the individual vector asset library; UploadStudent curves and transparent independent component viewed",
+    "Website agent completed 13 website and eight key mobile art integrations with roots preserved",
+    "Operational agent completed 33 mobile, 22 partner, 16 admin and 20 handoff-copy revisions",
+    "Root manually verified one website and twelve customer navigation connections",
+    "Dedicated per-asset subagents produced three human SVG v2 illustrations and three matching PaperPal poses",
+    "SVG v2 artwork imported through native editor clipboard as Figma frames/groups/paths, retaining original component masters and hidden recoverable originals",
+    "Root inspected all six imported artworks at full size and in gallery; website hero and mobile Home show updated intact instances",
+    "Independent mascot quality review passed actual Figma screenshot",
+    "Two Smart Animate login links played and verified; phone prefix corrected to +91",
+    "Verified screen's 48-pixel Replay animation action wired Instant to Phone and played successfully; live label verified"
+  ],
+  "pagesObserved": [
+    "00 Start & workflows",
+    "01 Foundations",
+    "02 Components",
+    "03 Wireframes",
+    "04 Website",
+    "05 Mobile customer",
+    "06 Partner",
+    "07 Admin",
+    "08 Prototype & Flutter handoff",
+    "11 Illustration assets",
+    "10 Archive — superseded illustration drafts"
+  ],
+  "additionalPageAgentReported": "09 Attention & usability",
+  "observedNodes": {
+    "customerWorkflow": "2:4830",
+    "foundations": "2:5673",
+    "illustrationMasters": {
+      "UploadStudent": "25:94",
+      "Shopkeeper": "25:128",
+      "PickupCustomer": "25:166",
+      "PaperPalPhone": "25:5",
+      "PaperPalOTP": "25:33",
+      "PaperPalVerified": "25:61"
+    },
+    "loginMotion": {
+      "Phone": "25:4149",
+      "OTP": "25:4199",
+      "Verified": "25:4258"
+    }
+  },
+  "figmaAgentReportedCounts": {
+    "verification": "Reports from multiple native jobs; screen/art jobs completed, full independent inventory remains pending. Root/instance totals below are historical snapshots.",
+    "websiteScreens": 13,
+    "mobileScreens": 43,
+    "partnerScreens": 22,
+    "adminScreens": 16,
+    "grayscaleWireframes": 22,
+    "workflowBoards": 7,
+    "variables": 121,
+    "primitiveVariables": 56,
+    "semanticAliases": 65,
+    "collections": 2,
+    "componentSets": 17,
+    "variants": 68,
+    "typographyStyles": 5,
+    "page00To08RootNodes": 162,
+    "page00To08Instances": 753,
+    "usabilityBoards": 16,
+    "heuristicAttentionMaps": 8,
+    "totalRootNodes": 178,
+    "totalInstances": 821,
+    "historicalRootInstanceSnapshot": "162 roots/753 instances on 00–08, then 178 roots/821 instances after usability; not updated for illustration library or later restyles.",
+    "nativeIllustrationComponents": 22,
+    "nativeIllustrationComponentSets": 2,
+    "newWebsiteArtInstances": 18,
+    "newKeyMobileArtInstances": 9,
+    "replacedTinyMobileSpecimens": 28
+  },
+  "prototypeEvidence": {
+    "manuallyVerifiedNavigations": 16,
+    "manuallyVerifiedStartingFlows": 3,
+    "flowName": "Website · PDF to pickup",
+    "verifiedConnection": "W01-1440 Landing hero CTA → W02-1440 Get app; click, dissolve 300ms, ease out",
+    "flowUrl": "https://www.figma.com/proto/GLk1d6IiNCnsEFIEIVogwm/Printlly-%E2%80%94-Ink-and-Paper-%C2%B7-Product-Redesign?node-id=6-48125&t=beb0qaqeVPtH9l2q-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A48125",
+    "fullFlowsComplete": false,
+    "note": "16 actual verified links: one web, twelve customer and three login, including the played Instant replay from Verified to Phone. Three flows reported by root. Changed mascot shapes blend/dissolve during Smart Animate; no continuous path morph is claimed. Full branches/back/partner/accessibility/scrolling remain incomplete.",
+    "websiteNavigations": 1,
+    "customerNavigations": 12,
+    "customerConnectionPairs": [
+      [
+        "M07",
+        "M08"
+      ],
+      [
+        "M08",
+        "M10"
+      ],
+      [
+        "M10",
+        "M12"
+      ],
+      [
+        "M12",
+        "M15"
+      ],
+      [
+        "M15",
+        "M17"
+      ],
+      [
+        "M17",
+        "M19"
+      ],
+      [
+        "M19",
+        "M20"
+      ],
+      [
+        "M20",
+        "M22"
+      ],
+      [
+        "M22",
+        "M25"
+      ],
+      [
+        "M25",
+        "M26"
+      ],
+      [
+        "M26",
+        "M27"
+      ],
+      [
+        "M27",
+        "M28"
+      ]
+    ],
+    "loginNavigations": 3,
+    "loginConnections": [
+      {
+        "source": "25:4149",
+        "destination": "25:4199",
+        "animation": "Smart Animate",
+        "durationMs": 240,
+        "playedAndVerified": true
+      },
+      {
+        "source": "25:4199",
+        "destination": "25:4258",
+        "animation": "Smart Animate",
+        "durationMs": 300,
+        "playedAndVerified": true
+      },
+      {
+        "source": "25:4258",
+        "destination": "25:4149",
+        "trigger": "Click Replay animation",
+        "animation": "Instant",
+        "playedAndVerified": true
+      }
+    ],
+    "flows": [
+      {
+        "name": "Website · PDF to pickup",
+        "url": "https://www.figma.com/proto/GLk1d6IiNCnsEFIEIVogwm/Printlly-%E2%80%94-Ink-and-Paper-%C2%B7-Product-Redesign?node-id=6-48125&t=beb0qaqeVPtH9l2q-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A48125",
+        "scope": "One website CTA verified"
+      },
+      {
+        "name": "Customer journey",
+        "url": null,
+        "scope": "Twelve verified customer links; URL not recorded here"
+      },
+      {
+        "name": "Illustration demo · Sign-in animation",
+        "url": "https://www.figma.com/proto/GLk1d6IiNCnsEFIEIVogwm/Printlly-%E2%80%94-Paper-in-Motion-%C2%B7-Product-Redesign?node-id=25-4149&scaling=scale-down&content-scaling=fixed&starting-point-node-id=25%3A4149",
+        "scope": "Three login-demo links verified by playback: two Smart Animate forward links and one Instant replay"
+      }
+    ],
+    "reducedMotion": {
+      "documented": true,
+      "wired": false,
+      "tested": false
+    },
+    "loginReplay": {
+      "label": "Replay animation",
+      "hitArea": 48,
+      "source": "25:4258",
+      "destination": "25:4149",
+      "animation": "Instant",
+      "playedAndVerified": true,
+      "liveButtonLabelVerified": true
+    }
+  },
+  "targetPalette": {
+    "background": "#FFF7E8",
+    "surface": "#FFFFFF",
+    "ink": "#2C1838",
+    "secondary": "#65516C",
+    "action": "#6D35B1",
+    "pressed": "#53258D",
+    "selection": "#EDE4F5",
+    "lime": "#D8F36A",
+    "apricot": "#FF9E79",
+    "error": "#A12F4D"
+  },
+  "calculatedPaletteContrast": {
+    "verification": "Calculated values supplied for the new palette; rendered pairings pending",
+    "inkOnIvory": 15.23,
+    "secondaryOnIvory": 6.69,
+    "whiteOnPlum": 7.52,
+    "whiteOnPressed": 10.41,
+    "plumOnIvory": 7.06,
+    "inkOnLavender": 13.14,
+    "inkOnLime": 13.09,
+    "inkOnApricot": 8.05,
+    "errorOnIvory": 6.51,
+    "whiteOnApricotFailsNormalText": 2.02,
+    "plumOnApricotFailsNormalText": 3.73
+  },
+  "illustrationAssets": [
+    {
+      "method": "Individual SVG v2 imported through Figma editor clipboard as native editable frames/groups/paths; no raster or file-upload integration",
+      "status": "Root independently inspected each v2 artwork full-size and in gallery, plus updated website hero and M06 Home instances. Independent mascot screenshot review passed.",
+      "scope": [
+        "folded-paper mascot",
+        "separate human upload/shop/pickup poses",
+        "four avatars"
+      ],
+      "pngExplorations": "Retained non-destructively in design/assets as discarded/reference explorations only; not final assets or integrated into Figma.",
+      "fileUrlPermissionGranted": false,
+      "inventory": {
+        "paperPal": {
+          "variants": [
+            "Phone",
+            "OTP",
+            "Verified"
+          ],
+          "referenceSize": 320
+        },
+        "humanPoses": {
+          "names": [
+            "UploadStudent",
+            "Shopkeeper",
+            "PickupCustomer"
+          ],
+          "width": 360,
+          "height": 460
+        },
+        "avatars": {
+          "count": 4,
+          "size": 80
+        },
+        "printlyIcons": {
+          "variants": 12,
+          "size": 24
+        },
+        "reportedComponents": 22,
+        "reportedComponentSets": 2
+      },
+      "revision": 2,
+      "studentCurveRevision": {
+        "revision": 3,
+        "source": "assets/vector/UploadStudent-v3.svg",
+        "componentMasterId": "25:94",
+        "visibleFrame": "Artwork / UploadStudent v3",
+        "previousFrame": "Archive / student v2 — previous curve pass (hidden)",
+        "changes": "Softer knee silhouette and tangents, aligned cuffs, consistent shoe ground plane; upper body unchanged",
+        "verification": "Root reviewed rendered SVG candidate and native Figma component at 110%; 360 by 460 native frame at x0/y0. This is a modest curve refinement, not certified artist-level craft or user acceptance.",
+        "proof": "figma-validation/student-v3.jpg"
+      },
+      "sources": [
+        "assets/vector/UploadStudent-v2.svg",
+        "assets/vector/Shopkeeper-v2.svg",
+        "assets/vector/PickupCustomer-v2.svg",
+        "assets/vector/PaperPal-Phone-v2.svg",
+        "assets/vector/PaperPal-OTP-v2.svg",
+        "assets/vector/PaperPal-Verified-v2.svg"
+      ],
+      "importStructure": {
+        "componentMasterIdsPreserved": true,
+        "oldParts": "Hidden in Archive / original ... groups; recoverable",
+        "newParts": "Artwork / <asset> v2 frames at x0/y0",
+        "paperPalLayerName": "Artwork / PaperPal",
+        "paperPalMatchingSvgIds": 35,
+        "paperPalPathsPerPose": 20,
+        "pngPreviews": "QA only, not Figma artwork"
+      }
+    }
+  ],
+  "attentionMapEvidence": "Expert predictions only; no session/click/eye tracking or completed usability-test data",
+  "pendingSteps": [
+    "Validate remaining inherited scaled typography, outlines, text scaling and component bindings across all screens",
+    "Wire/test partner, error/recovery, back and tab navigation branches",
+    "Complete/test ticket and reduced-motion routes",
+    "Verify actual scrolling, keyboard/safe-area layouts and accessibility",
+    "Inspect attention-map labels and wider operational renders",
+    "Update full current counts and remaining prototype URLs after validation"
+  ],
+  "documentation": {
+    "visualSpecification": "../DESIGN.md",
+    "handoff": "REDESIGN_HANDOFF.md",
+    "backendGaps": "../docs/REDESIGN_BACKEND_GAPS.md"
+  },
+  "motionFrames": {
+    "createdByNativeAgent": 3,
+    "referenceWidth": 390,
+    "referenceHeight": 844,
+    "names": [
+      "Motion 01 Phone",
+      "Motion 02 OTP",
+      "Motion 03 Verified"
+    ],
+    "wiringVerified": true,
+    "note": "Three 390×844 screens use matched PaperPal artwork naming and 35 SVG IDs per pose. Shapes blend/dissolve; do not describe continuous path morph. Reduced-motion alternative is documented only.",
+    "playbackVerified": true,
+    "verifiedAnimations": "Phone → OTP Smart Animate 240ms; OTP → Verified Smart Animate 300ms; Verified → Phone via Replay animation, Instant, played and verified",
+    "replayVerified": true
+  },
+  "layoutEvidence": {
+    "websiteLanding1440FixedHeight": 900,
+    "websiteRootsPreserved": true,
+    "actualPrototypeScrollingVerified": false,
+    "note": "M10 and M17 native replacement content inspected as readable; some inherited scaled typography remains on other screens."
+  },
+  "externalLimitations": {
+    "figmaAiCredits": "Exhausted until 1 November; no purchase authorized or made.",
+    "connectorCallable": false,
+    "manualEditorFallback": "User-authorized and still usable; root continuing direct editor work."
+  },
+  "artworkValidation": {
+    "reviewer": "Root independent native Figma inspection; independent mascot quality reviewer",
+    "fullSizeAndGallery": true,
+    "websiteHeroInstance": true,
+    "M06HomeInstance": true,
+    "brokenOrCroppedArtworkObserved": false,
+    "phonePrefix": "+91",
+    "proofCaptures": [
+      "figma-validation/characters-v2.jpg",
+      "figma-validation/mascot-v2.jpg",
+      "figma-validation/login-motion-v2.jpg",
+      "figma-validation/website-hero.jpg",
+      "figma-validation/mobile-home.jpg"
+    ],
+    "scope": "Artwork and representative instances; not full product accessibility or every-screen validation"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "defaultSize": 96,
+  "reducedMotion": "static",
+  "families": {
+    "payment_failed": {
+      "states": [
+        "server_confirmed_payment_failed",
+        "payment_declined"
+      ],
+      "mood": "disappointed but reassuring",
+      "action": "Check payment status before an allowed retry",
+      "never": [
+        "infer failure from network loss",
+        "claim not charged without verification"
+      ]
+    },
+    "payment_uncertain": {
+      "states": [
+        "payment_pending",
+        "payment_confirmation_timeout",
+        "payment_status_unknown",
+        "rate_limited"
+      ],
+      "mood": "patient and curious",
+      "action": "Check status / respect retry-after",
+      "never": [
+        "celebrate success",
+        "show pickup code",
+        "automatically charge again"
+      ]
+    },
+    "cancelled": {
+      "states": [
+        "payment_cancelled",
+        "order_cancelled",
+        "order_expired"
+      ],
+      "mood": "calm acceptance",
+      "action": "Return to options or start a new order with current availability",
+      "never": [
+        "guilt or punish cancellation",
+        "imply refund complete without a confirmed event"
+      ]
+    },
+    "offline": {
+      "states": [
+        "offline",
+        "connection_lost",
+        "order_updates_disconnected",
+        "request_timeout"
+      ],
+      "mood": "puzzled and helpful",
+      "action": "Reconnect / retry the affected read request",
+      "never": [
+        "discard uploaded files",
+        "equate stale data with fresh status"
+      ]
+    },
+    "service_unavailable": {
+      "states": [
+        "service_unavailable",
+        "maintenance",
+        "server_error"
+      ],
+      "mood": "apologetic and reassuring",
+      "action": "Try again / contact help",
+      "never": [
+        "invent a recovery ETA"
+      ]
+    },
+    "not_found": {
+      "states": [
+        "route_not_found",
+        "removed_resource",
+        "no_matching_shops"
+      ],
+      "mood": "curious search",
+      "action": "Go home / change area or filters",
+      "never": [
+        "treat every API404 as a missing website route"
+      ]
+    },
+    "upload_failed": {
+      "states": [
+        "partial_upload_failed",
+        "unsupported_file",
+        "file_too_large",
+        "processing_failed"
+      ],
+      "mood": "focused and protective of existing work",
+      "action": "Retry that file / choose another PDF or image",
+      "never": [
+        "retry all successful files",
+        "invent accepted formats or limits"
+      ]
+    },
+    "access_expired": {
+      "states": [
+        "login_code_invalid",
+        "login_code_expired",
+        "session_expired",
+        "access_denied"
+      ],
+      "mood": "gently puzzled",
+      "action": "Correct code / request new code / sign in / return to allowed page",
+      "never": [
+        "confuse login OTP with pickup code or UPI PIN",
+        "force login for an ordinary404"
+      ]
+    },
+    "shop_unavailable": {
+      "states": [
+        "shop_closed",
+        "shop_unavailable",
+        "shop_not_accepting_orders"
+      ],
+      "mood": "slight disappointment with helpful direction",
+      "action": "Find another available nearby shop",
+      "never": [
+        "invent a new order progression stage",
+        "promise availability"
+      ]
+    }
+  },
+  "inlineOnly": [
+    "individual_field_validation",
+    "chat_send_failed",
+    "permission_denied_inline",
+    "quote_changed_requires_review"
+  ],
+  "runtime": "classify existing API results; these names are client design states, not backend schemas"
+}
